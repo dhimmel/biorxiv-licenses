@@ -1,5 +1,7 @@
 # Exploring which licenses authors choose for their bioRxiv preprints
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dhimmel/biorxiv-licenses)
+
 ## License
 
 This repository is dual licensed as [BSD 3-Clause](LICENSE-BSD.md) and [CC0
