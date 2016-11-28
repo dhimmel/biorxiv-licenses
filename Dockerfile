@@ -13,4 +13,4 @@ RUN pip install --requirement requirements.txt
 RUN /home/main/anaconda/envs/python3/bin/pip install --requirement requirements.txt
 
 # Install vega nbextension for Jupyter
-RUN jupyter nbextension install --sys-prefix --py vega
+RUN jupyter nbextension install --py vega
