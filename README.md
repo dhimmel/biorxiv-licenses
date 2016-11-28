@@ -1,6 +1,20 @@
 # Exploring which licenses authors choose for their bioRxiv preprints
 
+This repository analyzes the licensing of [_bioRxiv_](http://biorxiv.org/ "The
+Preprint Server for Biology") preprints. The bioRxiv data was generated Omnes
+Res for [PrePubMed](http://www.prepubmed.org/) — a search engine for biomedical
+preprints.
+
+## Binder
+
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dhimmel/biorxiv-licenses)
+
+You can launch this repository in mybinder.org, which allows you to interact
+with the jupyter notebooks. 
+
+## Notebooks
+
++ [`1.analysis.ipynb`](1.analysis.ipynb) analyzes the distribution of licenses.
 
 ## License
 
