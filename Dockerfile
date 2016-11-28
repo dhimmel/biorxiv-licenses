@@ -5,9 +5,9 @@ MAINTAINER Daniel Himmelstein <daniel.himmelstein@gmail.com>
 
 USER main
 
-# Install requirements for Python 2
-COPY requirements.txt requirements.txt
-RUN pip install --requirement requirements.txt
+# Python 2 notebook updates and altair installation
+RUN /home/main/anaconda2/bin/conda update --yes --quiet notebook
+RUN /home/main/anaconda2/bin/conda install --yes --quiet --channel conda-forge altair
 
-# Install requirements for Python 3
-RUN /home/main/anaconda/envs/python3/bin/pip install --requirement requirements.txt
+# Python 3 notebook updates and altair installation
+RUN /home/main/anaconda/bin/conda install --name python3 --yes --quiet --channel conda-forge altair 
