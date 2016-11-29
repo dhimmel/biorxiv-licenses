@@ -1,0 +1,41 @@
+{
+  "config": {
+    "mark": {
+      "stacked": "normalize"
+    }
+  },
+  "encoding": {
+    "color": {
+      "field": "license",
+      "type": "ordinal"
+    },
+    "x": {
+      "axis": {
+        "axisWidth": 0.0,
+        "format": "%Y",
+        "labelAngle": 0.0,
+        "tickSize": 0.0
+      },
+      "field": "date",
+      "scale": {
+        "nice": "month"
+      },
+      "timeUnit": "yearmonth",
+      "title": " ",
+      "type": "temporal"
+    },
+    "y": {
+      "aggregate": "count",
+      "axis": {
+        "axisWidth": 0.0,
+        "grid": false,
+        "labels": false,
+        "ticks": 0.0
+      },
+      "field": "*",
+      "title": "Proportion of Preprints",
+      "type": "quantitative"
+    }
+  },
+  "mark": "area"
+}
