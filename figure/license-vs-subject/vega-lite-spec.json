@@ -1,6 +1,6 @@
 {
   "data": {
-    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/c9fa8beab61cd794bd0d42089da2fbd9d6b158e7/figure/license-vs-subject/vega-lite-data.json"
+    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/abac84523f8b98f8c936a872f9cc62599ade34e1/figure/license-vs-subject/vega-lite-data.json"
   },
   "transform": {
     "calculate": [{
@@ -35,17 +35,15 @@
       },
       "type": "nominal"
     },
-    "x": {
+    "y": {
       "axis": {
-        "axisWidth": 0.0,
-        "labelAngle": 45,
-        "tickSize": 0.0
+        "axisWidth": 0.0
       },
       "field": "Subject",
       "title": "",
       "type": "nominal"
     },
-    "y": {
+    "x": {
       "aggregate": "count",
       "axis": {
         "axisWidth": 0.0,
