@@ -9,8 +9,10 @@ preprints.
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dhimmel/biorxiv-licenses)
 
-You can launch this repository in mybinder.org, which allows you to interact
-with the jupyter notebooks. 
+Click the badge above to launch this repository in binder, which allows you to
+interact with the jupyter notebooks. Note that the mybinder.org build may be
+outdated. You can [rebuild it
+here](http://mybinder.org/status/dhimmel/biorxiv-licenses).
 
 ## Notebooks
 
