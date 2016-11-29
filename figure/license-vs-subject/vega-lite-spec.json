@@ -1,0 +1,67 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/c9fa8beab61cd794bd0d42089da2fbd9d6b158e7/figure/license-vs-subject/vega-lite-data.json"
+  },
+  "transform": {
+    "calculate": [{
+      "field": "license_index",
+      "expr": "datum.License === 'CC BY' ? 0 : datum.License === 'CC BY-ND' ? 1 : datum.License === 'CC BY-NC' ? 2 : datum.License === 'CC BY-NC-ND' ? 3 : 4"
+    }]
+  },
+  "config": {
+    "mark": {
+      "stacked": "normalize"
+    }
+  },
+  "encoding": {
+    "color": {
+      "field": "License",
+      "scale": {
+        "domain": [
+          "CC BY",
+          "CC BY-ND",
+          "CC BY-NC",
+          "CC BY-NC-ND",
+          "None"
+        ],
+        "range": [
+          "#F68212",
+          "#AC5B0C",
+          "#934E0A",
+          "#492705",
+          "#000000"
+        ],
+        "type": "ordinal"
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "axis": {
+        "axisWidth": 0.0,
+        "labelAngle": 45,
+        "tickSize": 0.0
+      },
+      "field": "Subject",
+      "title": "",
+      "type": "nominal"
+    },
+    "y": {
+      "aggregate": "count",
+      "axis": {
+        "axisWidth": 0.0,
+        "grid": false,
+        "labels": false,
+        "ticks": 0.0
+      },
+      "field": "*",
+      "title": "",
+      "type": "quantitative"
+    },
+    "order": {
+      "field": "license_index",
+      "type": "quantitative",
+      "sort": "descending"
+    }
+  },
+  "mark": "bar"
+}
