@@ -7,7 +7,17 @@
   "encoding": {
     "color": {
       "field": "license",
-      "type": "ordinal"
+      "scale": {
+        "domain": [
+          "CC BY",
+          "CC BY-ND",
+          "CC BY-NC",
+          "CC BY-NC-ND",
+          "None"
+        ],
+        "type": "ordinal"
+      },
+      "type": "nominal"
     },
     "x": {
       "axis": {
