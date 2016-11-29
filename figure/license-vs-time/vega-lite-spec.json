@@ -47,7 +47,7 @@
         "nice": "month"
       },
       "timeUnit": "yearmonth",
-      "title": " ",
+      "title": "",
       "type": "temporal"
     },
     "y": {
@@ -59,7 +59,7 @@
         "ticks": 0.0
       },
       "field": "*",
-      "title": "Proportion of Preprints",
+      "title": "",
       "type": "quantitative"
     },
     "order": {
