@@ -1,6 +1,6 @@
 {
   "data": {
-    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/abac84523f8b98f8c936a872f9cc62599ade34e1/figure/license-vs-subject/vega-lite-data.json"
+    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/28040a9e5255c883346506dd8373200de7ed6471/figure/license-vs-subject/vega-lite-data.json"
   },
   "transform": {
     "calculate": [{
