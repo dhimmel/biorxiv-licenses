@@ -24,6 +24,13 @@
           "CC BY-NC-ND",
           "None"
         ],
+        "range": [
+          "#F68212",
+          "#AC5B0C",
+          "#934E0A",
+          "#492705",
+          "#000000"
+        ],
         "type": "ordinal"
       },
       "type": "nominal"
