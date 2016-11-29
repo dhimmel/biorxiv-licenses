@@ -17,7 +17,8 @@ here](http://mybinder.org/status/dhimmel/biorxiv-licenses).
 ## Notebooks
 
 + [`1.download.ipynb`](1.download.ipynb) retrieves bioRxiv data from PrePubMed.
-+ [`2.analysis.ipynb`](2.analysis.ipynb) analyzes the distribution of licenses.
++ [`2.create-figure-data.ipynb`](2.create-figure-data.ipynb) creates JSON data
+files for vega-lite.
 
 ## License
 
