@@ -1,11 +1,11 @@
 {
   "data": {
-    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/4ad9659e4fc823f4c491e13be4505248df5c1ab6/figure/license-vs-time/vega-lite-data.json"
+    "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/38d884a20aaa24f3f25e07a78b9431f74ed04175/figure/license-vs-time/vega-lite-data.json"
   },
   "transform": {
     "calculate": [{
       "field": "license_index",
-      "expr": "datum.license === 'CC BY' ? 0 : datum.license === 'CC BY-ND' ? 1 : datum.license === 'CC BY-NC' ? 2 : datum.license === 'CC BY-NC-ND' ? 3 : 4"
+      "expr": "datum.License === 'CC BY' ? 0 : datum.License === 'CC BY-ND' ? 1 : datum.License === 'CC BY-NC' ? 2 : datum.License === 'CC BY-NC-ND' ? 3 : 4"
     }]
   },
   "config": {
@@ -15,7 +15,7 @@
   },
   "encoding": {
     "color": {
-      "field": "license",
+      "field": "License",
       "scale": {
         "domain": [
           "CC BY",
@@ -42,7 +42,7 @@
         "labelAngle": 0.0,
         "tickSize": 0.0
       },
-      "field": "date",
+      "field": "Date",
       "scale": {
         "nice": "month"
       },
