@@ -16,7 +16,8 @@ here](http://mybinder.org/status/dhimmel/biorxiv-licenses).
 
 ## Notebooks
 
-+ [`1.analysis.ipynb`](1.analysis.ipynb) analyzes the distribution of licenses.
++ [`1.download.ipynb`](1.download.ipynb) retrieves bioRxiv data from PrePubMed.
++ [`2.analysis.ipynb`](2.analysis.ipynb) analyzes the distribution of licenses.
 
 ## License
 

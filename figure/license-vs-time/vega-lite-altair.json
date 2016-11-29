@@ -6,7 +6,7 @@
   },
   "encoding": {
     "color": {
-      "field": "license",
+      "field": "License",
       "scale": {
         "domain": [
           "CC BY",
@@ -33,7 +33,7 @@
         "labelAngle": 0.0,
         "tickSize": 0.0
       },
-      "field": "date",
+      "field": "Date",
       "scale": {
         "nice": "month"
       },
