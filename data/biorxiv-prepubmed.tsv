@@ -132,6 +132,7 @@ DOI	Date	Subjects	License
 10.1101/001875	2014-01-22	Molecular Biology	CC BY-NC
 10.1101/001883	2014-01-17	Immunology	None
 10.1101/001891	2014-01-17	Evolutionary Biology	CC BY-NC-ND
+10.1101/001909	2014-01-17	Genomics	CC BY-NC
 10.1101/001917	2014-01-21	Microbiology	CC BY-NC
 10.1101/001925	2014-01-21	Ecology	CC BY-NC
 10.1101/001933	2014-01-21	Evolutionary Biology	CC BY-NC-ND
@@ -732,6 +733,7 @@ DOI	Date	Subjects	License
 10.1101/009803	2015-04-22	Evolutionary Biology	CC BY
 10.1101/009811	2014-09-30	Evolutionary Biology	CC BY-NC-ND
 10.1101/009829	2014-10-02	Evolutionary Biology	None
+10.1101/009837	2014-12-09	Evolutionary Biology	None
 10.1101/009845	2014-10-01	Neuroscience	CC BY
 10.1101/009878	2014-10-02	Cancer Biology	None
 10.1101/009886	2014-10-02	Genomics	CC BY-NC-ND
@@ -1058,6 +1060,7 @@ DOI	Date	Subjects	License
 10.1101/014001	2015-01-22	Genetics	None
 10.1101/014019	2015-02-02	Bioinformatics	None
 10.1101/014027	2015-01-20	Evolutionary Biology	CC BY-NC-ND
+10.1101/014035	2015-01-20	Genomics	None
 10.1101/014043	2015-05-04	Bioinformatics	CC BY
 10.1101/014050	2015-01-21	Genetics	CC BY
 10.1101/014068	2015-01-21	Genomics	CC BY-NC-ND
@@ -3224,6 +3227,7 @@ DOI	Date	Subjects	License
 10.1101/041541	2016-02-27	Systems Biology	CC BY-NC-ND
 10.1101/041558	2016-02-26	Microbiology	None
 10.1101/041566	2016-02-26	Bioinformatics	CC BY-ND
+10.1101/041582	2016-02-29	Systems Biology	CC BY
 10.1101/041608	2016-02-28	Evolutionary Biology	None
 10.1101/041616	2016-02-28	Bioinformatics	CC BY-NC-ND
 10.1101/041624	2016-02-29	Evolutionary Biology	None
@@ -4939,6 +4943,7 @@ DOI	Date	Subjects	License
 10.1101/064170	2016-07-15	Systems Biology	CC BY
 10.1101/064188	2016-07-15	Biophysics	None
 10.1101/064196	2016-07-16	Molecular Biology	None
+10.1101/064204	2016-07-18	Neuroscience	CC BY-NC-ND
 10.1101/064212	2016-07-15	Neuroscience	CC BY-NC-ND
 10.1101/064220	2016-07-15	Evolutionary Biology	CC BY
 10.1101/064238	2016-07-15	Evolutionary Biology	CC BY-NC-ND
@@ -5800,6 +5805,7 @@ DOI	Date	Subjects	License
 10.1101/075580	2016-09-16	Evolutionary Biology	CC BY
 10.1101/075598	2016-09-16	Ecology	None
 10.1101/075655	2016-09-16	Biophysics	CC BY-ND
+10.1101/075663	2016-09-16	Ecology	CC BY-NC-ND
 10.1101/075671	2016-09-16	Genomics	CC BY-NC-ND
 10.1101/075697	2016-09-16	Neuroscience	CC BY-NC-ND
 10.1101/075705	2016-09-16	Bioinformatics	CC BY-NC
@@ -6366,6 +6372,7 @@ DOI	Date	Subjects	License
 10.1101/083089	2016-10-25	Ecology	CC BY-NC
 10.1101/083097	2016-10-25	Systems Biology	None
 10.1101/083113	2016-10-27	Genetics	CC BY-NC-ND
+10.1101/083154	2016-10-25	Evolutionary Biology	CC BY-NC
 10.1101/083162	2016-10-25	Neuroscience	None
 10.1101/083170	2016-10-25	Biochemistry	CC BY-NC-ND
 10.1101/083204	2016-10-25	Biochemistry	CC BY
@@ -6538,6 +6545,7 @@ DOI	Date	Subjects	License
 10.1101/085423	2016-11-03	Cancer Biology	None
 10.1101/085431	2016-11-03	Evolutionary Biology	None
 10.1101/085456	2016-11-03	Ecology	None
+10.1101/085472	2016-11-03	Evolutionary Biology	CC BY-NC-ND
 10.1101/085498	2016-11-03	Bioinformatics	None
 10.1101/085506	2016-11-07	Neuroscience	CC BY-NC
 10.1101/085514	2016-11-06	Neuroscience	CC BY-NC
@@ -6821,6 +6829,7 @@ DOI	Date	Subjects	License
 10.1101/089185	2016-11-22	Cell Biology	CC BY-NC
 10.1101/089201	2016-11-22	Developmental Biology	None
 10.1101/089219	2016-11-22	Neuroscience	CC BY-NC-ND
+10.1101/089227	2016-11-22	Bioinformatics	None
 10.1101/089235	2016-11-22	Immunology	CC BY-NC-ND
 10.1101/089243	2016-11-23	Cancer Biology	CC BY-NC-ND
 10.1101/089268	2016-11-23	Evolutionary Biology	CC BY-NC-ND

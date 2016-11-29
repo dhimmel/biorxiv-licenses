@@ -804,6 +804,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/001909",
+    "Date": "2014-01-17",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
     "DOI": "10.1101/001917",
     "Date": "2014-01-21",
     "License": "CC BY-NC",
@@ -4428,6 +4434,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/009837",
+    "Date": "2014-12-09",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
     "DOI": "10.1101/009845",
     "Date": "2014-10-01",
     "License": "CC BY",
@@ -6400,6 +6412,12 @@
     "Date": "2015-01-20",
     "License": "CC BY-NC-ND",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/014035",
+    "Date": "2015-01-20",
+    "License": "None",
+    "Subject": "Genomics"
   },
   {
     "DOI": "10.1101/014043",
@@ -19452,6 +19470,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/041582",
+    "Date": "2016-02-29",
+    "License": "CC BY",
+    "Subject": "Systems Biology"
+  },
+  {
     "DOI": "10.1101/041608",
     "Date": "2016-02-28",
     "License": "None",
@@ -29766,6 +29790,12 @@
     "Subject": "Molecular Biology"
   },
   {
+    "DOI": "10.1101/064204",
+    "Date": "2016-07-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
     "DOI": "10.1101/064212",
     "Date": "2016-07-15",
     "License": "CC BY-NC-ND",
@@ -34872,6 +34902,12 @@
     "Subject": "Biophysics"
   },
   {
+    "DOI": "10.1101/075663",
+    "Date": "2016-09-16",
+    "License": "CC BY-NC-ND",
+    "Subject": "Ecology"
+  },
+  {
     "DOI": "10.1101/075671",
     "Date": "2016-09-16",
     "License": "CC BY-NC-ND",
@@ -38268,6 +38304,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/083154",
+    "Date": "2016-10-25",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
+  },
+  {
     "DOI": "10.1101/083162",
     "Date": "2016-10-25",
     "License": "None",
@@ -39298,6 +39340,12 @@
     "Date": "2016-11-03",
     "License": "None",
     "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/085472",
+    "Date": "2016-11-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
   },
   {
     "DOI": "10.1101/085498",
@@ -40996,6 +41044,12 @@
     "Date": "2016-11-22",
     "License": "CC BY-NC-ND",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/089227",
+    "Date": "2016-11-22",
+    "License": "None",
+    "Subject": "Bioinformatics"
   },
   {
     "DOI": "10.1101/089235",
