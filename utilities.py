@@ -1,6 +1,13 @@
+import collections
 import json
 
 import altair
+
+json_dump_kwargs = {
+    'ensure_ascii': False,
+    'indent': 2,
+    'sort_keys': True,
+}
 
 def tidy_split(df, column, sep='|', keep=False):
     """
@@ -53,8 +60,21 @@ def df_to_vega_lite(df, path=None):
     """
     chart = altair.Chart(data=df)
     data = chart.to_dict()['data']['values']
-    kwargs = {'ensure_ascii': False, 'indent': 2, 'sort_keys': True}
     if path is None:
-        return json.dumps(data, **kwargs)
+        return json.dumps(data, **json_dump_kwargs)
     with open(path, 'w') as write_file:
-        json.dump(data, write_file, **kwargs)
+        json.dump(data, write_file, **json_dump_kwargs)
+
+def df_to_datatables(df, path=None, double_precision=5, indent=2):
+    """
+    Convert a pandas dataframe to a JSON object formatted for datatables input.
+    """
+    dump_str = df.to_json(orient='split', double_precision=double_precision)
+    obj = json.loads(dump_str)
+    del obj['index']
+    obj = collections.OrderedDict(obj)
+    obj.move_to_end('data')
+    if path is None:
+        return json.dumps(obj, **json_dump_kwargs)
+    with open(path, 'w') as write_file:
+        json.dump(obj, write_file, **json_dump_kwargs)
