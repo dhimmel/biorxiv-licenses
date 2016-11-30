@@ -1,7 +1,10 @@
 import collections
 import json
+import logging
+import functools
 
 import altair
+import nameparser
 
 json_dump_kwargs = {
     'ensure_ascii': False,
@@ -78,3 +81,20 @@ def df_to_datatables(df, path=None, double_precision=5, indent=2):
         return json.dumps(obj, **json_dump_kwargs)
     with open(path, 'w') as write_file:
         json.dump(obj, write_file, **json_dump_kwargs)
+
+@functools.lru_cache(maxsize=10**6)
+def get_standard_author(author):
+    """
+    Given a bioRxiv author, return their name in 'first last' format. Return
+    `None` if the author is detected to be erroneous or not an invdivual.
+    """
+    author_lower = author.lower()
+    if 'consortium' in author_lower:
+        logging.warning('"{}" removed as a consortium'.format(author))
+        return None
+    if 'n/a' in author_lower:
+        logging.warning('"{}" removed as NA'.format(author))
+        return None
+    name = nameparser.HumanName(author)
+    standard_author = '{} {}'.format(name.first, name.last)
+    return standard_author
