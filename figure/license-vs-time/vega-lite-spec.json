@@ -2,7 +2,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/dhimmel/biorxiv-licenses/abac84523f8b98f8c936a872f9cc62599ade34e1/figure/license-vs-time/vega-lite-data.json"
   },
-  "fontSize": 13,
+  "width": 300,
+  "height": 225,
   "transform": {
     "calculate": [{
       "field": "license_index",
