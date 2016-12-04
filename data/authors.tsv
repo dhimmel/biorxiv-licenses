@@ -37472,6 +37472,8 @@ DOI	Author	Standard_Author
 10.1101/083113	Paul Sternberg	Paul Sternberg
 10.1101/083113	Tiffany H Khaw	Tiffany Khaw
 10.1101/083113	Tiffany Tsou	Tiffany Tsou
+10.1101/083121	Basuthkar J Rao	Basuthkar Rao
+10.1101/083121	Sarosh N. Fatakia	Sarosh Fatakia
 10.1101/083154	Michael Ailion	Michael Ailion
 10.1101/083154	Piero Lamelza	Piero Lamelza
 10.1101/083162	Alexander L Green	Alexander Green
@@ -39202,6 +39204,8 @@ DOI	Author	Standard_Author
 10.1101/086553	Trever G Bivona	Trever Bivona
 10.1101/086553	Vanessa D Jonsson	Vanessa Jonsson
 10.1101/086553	Victor Olivas	Victor Olivas
+10.1101/086561	Brad Solomon	Brad Solomon
+10.1101/086561	Carl Kingsford	Carl Kingsford
 10.1101/086579	Julia Koehler Leman	Julia Leman
 10.1101/086579	Richard Bonneau	Richard Bonneau
 10.1101/086579	Sergey Lyskov	Sergey Lyskov
@@ -39939,6 +39943,8 @@ DOI	Author	Standard_Author
 10.1101/088252	Xin Wang	Xin Wang
 10.1101/088260	Bruce S Weir	Bruce Weir
 10.1101/088260	Jerome Goudet	Jerome Goudet
+10.1101/088278	Brett Mensh	Brett Mensh
+10.1101/088278	Konrad P Kording	Konrad Kording
 10.1101/088286	Alexander Rubinsteyn	Alexander Rubinsteyn
 10.1101/088286	Alexandra Snyder	Alexandra Snyder
 10.1101/088286	Arun Ahuja	Arun Ahuja
@@ -40732,6 +40738,10 @@ DOI	Author	Standard_Author
 10.1101/089425	Bradley Postle	Bradley Postle
 10.1101/089425	Jason Samaha	Jason Samaha
 10.1101/089425	Luca Iemi	Luca Iemi
+10.1101/089433	Andreas Rechtsteiner	Andreas Rechtsteiner
+10.1101/089433	Andrew Kekupaa Knutson	Andrew Knutson
+10.1101/089433	Susan Strome	Susan Strome
+10.1101/089433	Thea A. Egelhofer	Thea Egelhofer
 10.1101/089441	Lin Yang	Lin Yang
 10.1101/089441	Remo Rohs	Remo Rohs
 10.1101/089441	Wenxiu Ma	Wenxiu Ma
@@ -40917,6 +40927,10 @@ DOI	Author	Standard_Author
 10.1101/089946	Anthony Nolan	Anthony Nolan
 10.1101/089946	Barry L Stoddard	Barry Stoddard
 10.1101/089946	Raymond J Monnat	Raymond Monnat
+10.1101/089953	Christine D. Smart	Christine Smart
+10.1101/089953	Elodie Gazave	Elodie Gazave
+10.1101/089953	Maryn O. Carlson	Maryn Carlson
+10.1101/089953	Michael A. Gore	Michael Gore
 10.1101/089961	Amr T. M. Saeb	Amr Saeb
 10.1101/089961	Hamsa T. Tayeb	Hamsa Tayeb
 10.1101/089961	Khalid Al-Rubeaan	Khalid Al-Rubeaan
@@ -40944,6 +40958,8 @@ DOI	Author	Standard_Author
 10.1101/090035	David W Redding	David Redding
 10.1101/090035	Ellie E Dyer	Ellie Dyer
 10.1101/090035	Tim M Blackburn	Tim Blackburn
+10.1101/090068	Christopher Melm	Christopher Melm
+10.1101/090068	Harkewal Singh	Harkewal Singh
 10.1101/090076	Cameron P Simmons	Cameron Simmons
 10.1101/090076	Dao Nguyen Vinh	Dao Vinh
 10.1101/090076	Erwin de Bruin	Erwin de Bruin
@@ -40972,6 +40988,13 @@ DOI	Author	Standard_Author
 10.1101/090092	Ali Hassanali	Ali Hassanali
 10.1101/090092	Kwang Hyok Jong	Kwang Jong
 10.1101/090092	Luca Grisanti	Luca Grisanti
+10.1101/090126	Axel Janke	Axel Janke
+10.1101/090126	Fritjof Lammers	Fritjof Lammers
+10.1101/090126	Lydia Kolter	Lydia Kolter
+10.1101/090126	Maria A Nilsson	Maria Nilsson
+10.1101/090126	Markus Pfenninger	Markus Pfenninger
+10.1101/090126	Tobias Bidon	Tobias Bidon
+10.1101/090126	Vikas Kumar	Vikas Kumar
 10.1101/090134	Alexandra Snyder Charen	Alexandra Charen
 10.1101/090134	Bulent Arman Aksoy	Bulent Aksoy
 10.1101/090134	David D. L. Bowtell	David Bowtell
@@ -41025,4 +41048,408 @@ DOI	Author	Standard_Author
 10.1101/090209	Jennifer Brown	Jennifer Brown
 10.1101/090209	Joshua Dudman	Joshua Dudman
 10.1101/090209	Kathleen A Martin	Kathleen Martin
+10.1101/090217	Yul Hyoung Ryul Kang	Yul Kang
 10.1101/090225	David W Armitage	David Armitage
+10.1101/090233	Elizabeth DuPre	Elizabeth DuPre
+10.1101/090233	R. Nathan Spreng	R. Spreng
+10.1101/090241	Atsede Siba	Atsede Siba
+10.1101/090241	Aviv Regev	Aviv Regev
+10.1101/090241	Aviva P Aiden	Aviva Aiden
+10.1101/090241	Christine S Cheng	Christine Cheng
+10.1101/090241	Christophe Benoist	Christophe Benoist
+10.1101/090241	Chun J Ye	Chun Ye
+10.1101/090241	Dmytro Lituiev	Dmytro Lituiev
+10.1101/090241	Erez Lieberman Aiden	Erez Aiden
+10.1101/090241	Howard Y Chang	Howard Chang
+10.1101/090241	Ido Machol	Ido Machol
+10.1101/090241	Ivo Wortman	Ivo Wortman
+10.1101/090241	Kendrick L Hougen	Kendrick Hougen
+10.1101/090241	Marcin Tabaka	Marcin Tabaka
+10.1101/090241	Meena Subramaniam	Meena Subramaniam
+10.1101/090241	Micheal A Beer	Micheal Beer
+10.1101/090241	Muhammad Shammim	Muhammad Shammim
+10.1101/090241	Neva C Durand	Neva Durand
+10.1101/090241	Philip L De Jager	Philip De Jager
+10.1101/090241	Rachel E Gate	Rachel Gate
+10.1101/090241	Su-Chen Huang	Su-Chen Huang
+10.1101/090241	Ting Feng	Ting Feng
+10.1101/090258	Abimbola Kolawole	Abimbola Kolawole
+10.1101/090258	Adrian Serohijos	Adrian Serohijos
+10.1101/090258	Andrew Feldman	Andrew Feldman
+10.1101/090258	Assaf Rotem	Assaf Rotem
+10.1101/090258	Audrey Fischer	Audrey Fischer
+10.1101/090258	Christiane Wobus	Christiane Wobus
+10.1101/090258	Connie Chang	Connie Chang
+10.1101/090258	David Weitz	David Weitz
+10.1101/090258	Eugene Shakhnovich	Eugene Shakhnovich
+10.1101/090258	Huidan Zhang	Huidan Zhang
+10.1101/090258	James Pipas	James Pipas
+10.1101/090258	Jeffrey Lin	Jeffrey Lin
+10.1101/090258	Jeong-Mo Choi	Jeong-Mo Choi
+10.1101/090258	Joshua Wolfe	Joshua Wolfe
+10.1101/090258	Kellogg Schwab	Kellogg Schwab
+10.1101/090258	Lloyd Ung	Lloyd Ung
+10.1101/090258	Naiwen Cui	Naiwen Cui
+10.1101/090258	Nicholas Giacobbi	Nicholas Giacobbi
+10.1101/090258	Peter Thielen	Peter Thielen
+10.1101/090258	Plamen Demirev	Plamen Demirev
+10.1101/090258	Stephan Koehler	Stephan Koehler
+10.1101/090258	Susan Wu	Susan Wu
+10.1101/090258	Thomas Mehoke	Thomas Mehoke
+10.1101/090258	Thomas Smith	Thomas Smith
+10.1101/090258	Timothy Julian	Timothy Julian
+10.1101/090258	Ye Tao	Ye Tao
+10.1101/090274	Dorian J Garrick	Dorian Garrick
+10.1101/090274	Rohan L Fernando	Rohan Fernando
+10.1101/090274	Wan-Ling Hsu	Wan-Ling Hsu
+10.1101/090290	Zhenhua Xie	Zhenhua Xie
+10.1101/090308	Francisco J H Heras	Francisco Heras
+10.1101/090308	Jeremy E Niven	Jeremy Niven
+10.1101/090308	John Anderson	John Anderson
+10.1101/090308	Simon B Laughlin	Simon Laughlin
+10.1101/090316	Alessandra F. Lutz	Alessandra Lutz
+10.1101/090316	Annette Cazaubiel	Annette Cazaubiel
+10.1101/090316	Jeferson J. Arenzon	Jeferson Arenzon
+10.1101/090324	Antoine Allard	Antoine Allard
+10.1101/090324	Benjamin M. Althouse	Benjamin Althouse
+10.1101/090324	Laurent Hebert-Dufresne	Laurent Hebert-Dufresne
+10.1101/090324	Samuel V. Scarpino	Samuel Scarpino
+10.1101/090332	Allon Klein	Allon Klein
+10.1101/090332	Caleb Weinreb	Caleb Weinreb
+10.1101/090332	Samuel Wolock	Samuel Wolock
+10.1101/090340	Gregor Bucher	Gregor Bucher
+10.1101/090340	Magdalena Ines Schacht	Magdalena Schacht
+10.1101/090340	Matthias Weisskopf	Matthias Weisskopf
+10.1101/090340	Peter Kitzmann	Peter Kitzmann
+10.1101/090357	David Mason	David Mason
+10.1101/090357	Jennifer Elizabeth Francis	Jennifer Francis
+10.1101/090357	Raphael Levy	Raphael Levy
+10.1101/090415	David Michael Alan Martin	David Martin
+10.1101/090415	Glenn Bryan	Glenn Bryan
+10.1101/090431	Anisha Keshavan	Anisha Keshavan
+10.1101/090431	Christopher R Madan	Christopher Madan
+10.1101/090431	Esha Datta	Esha Datta
+10.1101/090431	Ian McDonough	Ian McDonough
+10.1101/090431	Kesshi Jordan	Kesshi Jordan
+10.1101/090431	Roland Henry	Roland Henry
+10.1101/090449	Ahmed Abd-El-Haliem	Ahmed Abd-El-Haliem
+10.1101/090449	Chih-Hang Wu	Chih-Hang Wu
+10.1101/090449	Jack H. Vossen	Jack Vossen
+10.1101/090449	Khaoula Belhaj	Khaoula Belhaj
+10.1101/090449	Ryohei Terauchi	Ryohei Terauchi
+10.1101/090449	Sophien Kamoun	Sophien Kamoun
+10.1101/090449	Tolga O. Bozkurt	Tolga Bozkurt
+10.1101/090456	Ahmadreza Ghaffarizadeh	Ahmadreza Ghaffarizadeh
+10.1101/090456	Alexander G. Fletcher	Alexander Fletcher
+10.1101/090456	Alexander R.A. Anderson	Alexander Anderson
+10.1101/090456	Andrea Hawkins-Daarud	Andrea Hawkins-Daarud
+10.1101/090456	Carl Kesselman	Carl Kesselman
+10.1101/090456	Daniel Ruderman	Daniel Ruderman
+10.1101/090456	David B. Agus	David Agus
+10.1101/090456	David M. Bortz	David Bortz
+10.1101/090456	David Robert Grimes	David Grimes
+10.1101/090456	Edwin F. Juarez	Edwin Juarez
+10.1101/090456	Hermann B. Frieboes	Hermann Frieboes
+10.1101/090456	Jacob Scott	Jacob Scott
+10.1101/090456	Jessica L. Sparks	Jessica Sparks
+10.1101/090456	Kerri-Ann Norton	Kerri-Ann Norton
+10.1101/090456	Kristin Swanson	Kristin Swanson
+10.1101/090456	Paul K. Newton	Paul Newton
+10.1101/090456	Paul Macklin	Paul Macklin
+10.1101/090456	Rishi Rawat	Rishi Rawat
+10.1101/090456	Roeland Merks	Roeland Merks
+10.1101/090456	Russell C. Rockne	Russell Rockne
+10.1101/090456	Samuel H. Friedman	Samuel Friedman
+10.1101/090456	Shannon M. Mumenthaler	Shannon Mumenthaler
+10.1101/090456	Stefan Hoehme	Stefan Hoehme
+10.1101/090456	Suzanne S. Sindi	Suzanne Sindi
+10.1101/090464	Chen Sun	Chen Sun
+10.1101/090464	Paul Medvedev	Paul Medvedev
+10.1101/090464	Rayan Chikhi	Rayan Chikhi
+10.1101/090464	Robert S. Harris	Robert Harris
+10.1101/090472	Alfonso Caramazza	Alfonso Caramazza
+10.1101/090472	Stefano Anzellotti	Stefano Anzellotti
+10.1101/090480	Austin S Abendroth	Austin Abendroth
+10.1101/090480	Ciara K Asamoto	Ciara Asamoto
+10.1101/090480	Daniel A Pollard	Daniel Pollard
+10.1101/090480	Homa Rahnamoun	Homa Rahnamoun
+10.1101/090480	Scott A Rifkin	Scott Rifkin
+10.1101/090480	Suzanne R Lee	Suzanne Lee
+10.1101/090498	Brianna Meeks	Brianna Meeks
+10.1101/090498	Daniel A Skelly	Daniel Skelly
+10.1101/090498	Helen A Murphy	Helen Murphy
+10.1101/090498	Paul M Magwene	Paul Magwene
+10.1101/090506	AnHai Doan	AnHai Doan
+10.1101/090506	Colin N. Dewey	Colin Dewey
+10.1101/090506	Matthew N. Bernstein	Matthew Bernstein
+10.1101/090514	Erik M. Jorgensen	Erik Jorgensen
+10.1101/090514	Irini Topalidou	Irini Topalidou
+10.1101/090514	Kirsten Cooper	Kirsten Cooper
+10.1101/090514	Michael Ailion	Michael Ailion
+10.1101/090514	Pin-An Chen	Pin-An Chen
+10.1101/090514	Shigeki Watanabe	Shigeki Watanabe
+10.1101/090530	Etienne Ruppe	Etienne Ruppe
+10.1101/090530	Frederic Laurent	Frederic Laurent
+10.1101/090530	Jacques Schrenzel	Jacques Schrenzel
+10.1101/090530	Myriam Girard	Myriam Girard
+10.1101/090530	Tristan Ferry	Tristan Ferry
+10.1101/090530	Vladimir Lazarevic	Vladimir Lazarevic
+10.1101/090530	William Mouton	William Mouton
+10.1101/090555	Andre M Cravo	Andre Cravo
+10.1101/090555	Anna Christina Nobre	Anna Nobre
+10.1101/090555	Gustavo Rohenkohl	Gustavo Rohenkohl
+10.1101/090555	Karin M Santos	Karin Santos
+10.1101/090563	Caroline Smith	Caroline Smith
+10.1101/090563	Cristin Naumann	Cristin Naumann
+10.1101/090563	Dirk Inze	Dirk Inze
+10.1101/090563	Fu-Hao Lu	Fu-Hao Lu
+10.1101/090563	Gerhard Saalbach	Gerhard Saalbach
+10.1101/090563	Hannes Vanhaeren	Hannes Vanhaeren
+10.1101/090563	Hui Dong	Hui Dong
+10.1101/090563	Jack Dumenil	Jack Dumenil
+10.1101/090563	Li Na	Li Na
+10.1101/090563	Liangliang Chen	Liangliang Chen
+10.1101/090563	Maria Klecker	Maria Klecker
+10.1101/090563	Mathilde Seguela	Mathilde Seguela
+10.1101/090563	Michael W Bevan	Michael Bevan
+10.1101/090563	Nathalie Gonzalez	Nathalie Gonzalez
+10.1101/090563	Neil McKenzie	Neil McKenzie
+10.1101/090563	Nico Dissmeyer	Nico Dissmeyer
+10.1101/090563	Rachel Prior	Rachel Prior
+10.1101/090563	Tian Xia	Tian Xia
+10.1101/090563	Yunhai Li	Yunhai Li
+10.1101/090571	Arbel Harpak	Arbel Harpak
+10.1101/090571	Emily C Glassberg	Emily Glassberg
+10.1101/090571	Marcus W Feldman	Marcus Feldman
+10.1101/090571	Victor Garcia	Victor Garcia
+10.1101/090605	Adam Giangreco	Adam Giangreco
+10.1101/090613	Blanka Tesla	Blanka Tesla
+10.1101/090613	Courtney Murdock	Courtney Murdock
+10.1101/090613	Kerri Miazgowicz	Kerri Miazgowicz
+10.1101/090613	Michelle V Evans	Michelle Evans
+10.1101/090613	Taylor McClanahan	Taylor McClanahan
+10.1101/090621	John D Mumford	John Mumford
+10.1101/090621	Nayna Vyas-Patel	Nayna Vyas-Patel
+10.1101/090654	Emma J Kilford	Emma Kilford
+10.1101/090654	Germain Lefebvre	Germain Lefebvre
+10.1101/090654	Sarah-Jayne Blakemore	Sarah-Jayne Blakemore
+10.1101/090654	Stefano Palminteri	Stefano Palminteri
+10.1101/090662	Ankit N Khambhati	Ankit Khambhati
+10.1101/090662	Brian Litt	Brian Litt
+10.1101/090662	Brian S Oommen	Brian Oommen
+10.1101/090662	Danielle S Bassett	Danielle Bassett
+10.1101/090662	Kathryn A Davis	Kathryn Davis
+10.1101/090662	Stephanie H Chen	Stephanie Chen
+10.1101/090662	Timothy H Lucas	Timothy Lucas
+10.1101/090704	Mingxiang Teng	Mingxiang Teng
+10.1101/090704	Rafael A. Irizarry	Rafael Irizarry
+10.1101/090738	Edith N Khaembah	Edith Khaembah
+10.1101/090738	Shane Maley	Shane Maley
+10.1101/090738	Warrick Nelson	Warrick Nelson
+10.1101/090746	Quan Zou	Quan Zou
+10.1101/090746	Shixiang Wan	Shixiang Wan
+10.1101/090746	Wei Tang	Wei Tang
+10.1101/090753	Celine Duc	Celine Duc
+10.1101/090753	Geoffrey J Barton	Geoffrey Barton
+10.1101/090753	Gordon G Simpson	Gordon Simpson
+10.1101/090753	Katarzyna Mackinnon	Katarzyna Mackinnon
+10.1101/090753	Kimon Froussios	Kimon Froussios
+10.1101/090753	Marek Gierlinski	Marek Gierlinski
+10.1101/090753	Nicholas J Schurch	Nicholas Schurch
+10.1101/090761	Adam Giangreco	Adam Giangreco
+10.1101/090761	Elizabeth Sage	Elizabeth Sage
+10.1101/090761	Gabrielle Sturges	Gabrielle Sturges
+10.1101/090761	Pooja Seedhar	Pooja Seedhar
+10.1101/090761	Sabari Vallath	Sabari Vallath
+10.1101/090795	Dan Knights	Dan Knights
+10.1101/090795	Emmanuel Montassier	Emmanuel Montassier
+10.1101/090795	Juan Abrahante	Juan Abrahante
+10.1101/090795	Michael B Burns	Michael Burns
+10.1101/090795	Ran Blekhman	Ran Blekhman
+10.1101/090795	Timothy K. Starr	Timothy Starr
+10.1101/090811	Petr Danecek	Petr Danecek
+10.1101/090811	Shane A McCarthy	Shane McCarthy
+10.1101/090829	Corey S Westfall	Corey Westfall
+10.1101/090829	Petra Anne Levin	Petra Levin
+10.1101/090837	Khanh Dao Duc	Khanh Duc
+10.1101/090837	Yun S. Song	Yun Song
+10.1101/090845	Daniel J Wilson	Daniel Wilson
+10.1101/090845	Nicola De Maio	Nicola De Maio
+10.1101/090852	Celine Le Bohec	Celine Le Bohec
+10.1101/090852	Emiliano Trucchi	Emiliano Trucchi
+10.1101/090852	Francesco Bonadonna	Francesco Bonadonna
+10.1101/090852	Nils Chr Stenseth	Nils Stenseth
+10.1101/090852	Pierre Pistorius	Pierre Pistorius
+10.1101/090852	Robin Cristofari	Robin Cristofari
+10.1101/090852	Virginie Raybaud	Virginie Raybaud
+10.1101/090852	Xiaoming Liu	Xiaoming Liu
+10.1101/090852	Yves Cherel	Yves Cherel
+10.1101/090852	Yvon Le Maho	Yvon Le Maho
+10.1101/090860	David Andreu	David Andreu
+10.1101/090860	Isabel Agea	Isabel Agea
+10.1101/090860	Jorge Ruiz-Orera	Jorge Ruiz-Orera
+10.1101/090860	Jose Luis Villanueva-Canas	Jose Villanueva-Canas
+10.1101/090860	Mar Alba	Mar Alba
+10.1101/090860	Maria Gallo	Maria Gallo
+10.1101/090878	Adam Nadachowski	Adam Nadachowski
+10.1101/090878	Adrian Marciszak	Adrian Marciszak
+10.1101/090878	Danijela Popovic	Danijela Popovic
+10.1101/090878	Grzegorz Lipecki	Grzegorz Lipecki
+10.1101/090878	Krzysztof Stefaniak	Krzysztof Stefaniak
+10.1101/090878	Mateusz Baca	Mateusz Baca
+10.1101/090878	Pawe Mackiewicz	Pawe Mackiewicz
+10.1101/090878	Pawe Socha	Pawe Socha
+10.1101/090878	Piotr Wojtal	Piotr Wojtal
+10.1101/090886	Christopher D Muir	Christopher Muir
+10.1101/090886	Leonie C Moyle	Leonie Moyle
+10.1101/090886	Rafael F Guerrero	Rafael Guerrero
+10.1101/090886	Sarah Josway	Sarah Josway
+10.1101/090886	Takuya Nakazato	Takuya Nakazato
+10.1101/090894	Arpat Ozgul	Arpat Ozgul
+10.1101/090894	Bruce E Kendall	Bruce Kendall
+10.1101/090894	Floriane Plard	Floriane Plard
+10.1101/090894	Jean-Michel Gaillard	Jean-Michel Gaillard
+10.1101/090894	Julia Barthold	Julia Barthold
+10.1101/090894	Susanne Schindler	Susanne Schindler
+10.1101/090894	Tim Coulson	Tim Coulson
+10.1101/090928	Adrian Balasescu	Adrian Balasescu
+10.1101/090928	Aliye Oztan	Aliye Oztan
+10.1101/090928	Arturo Morales-Muniz	Arturo Morales-Muniz
+10.1101/090928	Benjamin S. Arbuckle	Benjamin Arbuckle
+10.1101/090928	Can Y. Gunden	Can Gunden
+10.1101/090928	Chris Walzer	Chris Walzer
+10.1101/090928	E. Andrew Bennett	E. Bennett
+10.1101/090928	Erich Pucher	Erich Pucher
+10.1101/090928	Eva-Maria Geigl	Eva-Maria Geigl
+10.1101/090928	Hans-Peter Uerpmann	Hans-Peter Uerpmann
+10.1101/090928	Jean-Francois Tournepiche	Jean-Francois Tournepiche
+10.1101/090928	Joris Peters	Joris Peters
+10.1101/090928	Mahmoud-Reza Hemami	Mahmoud-Reza Hemami
+10.1101/090928	Margarete Uerpmann	Margarete Uerpmann
+10.1101/090928	Marjan Mashkour	Marjan Mashkour
+10.1101/090928	Mathieu Gautier	Mathieu Gautier
+10.1101/090928	Melanie Pruvost	Melanie Pruvost
+10.1101/090928	Mietje Germonpre	Mietje Germonpre
+10.1101/090928	Petra Kaczensky	Petra Kaczensky
+10.1101/090928	Pierre-Elie Moulle	Pierre-Elie Moulle
+10.1101/090928	Ralph Kuehn	Ralph Kuehn
+10.1101/090928	Shirli Bar-David	Shirli Bar-David
+10.1101/090928	Silvia Guimaraes	Silvia Guimaraes
+10.1101/090928	Simon J.M. Davis	Simon Davis
+10.1101/090928	Sophie Champlot	Sophie Champlot
+10.1101/090928	Thierry Grange	Thierry Grange
+10.1101/090936	Benjamin J Ridenhour	Benjamin Ridenhour
+10.1101/090936	Craig R Miller	Craig Miller
+10.1101/090936	James T Van Leuven	James Van Leuven
+10.1101/090936	Tanya A Miura	Tanya Miura
+10.1101/090944	Ross Miller	Ross Miller
+10.1101/090969	Artyom Kopp	Artyom Kopp
+10.1101/090969	Emily Kay Delaney	Emily Delaney
+10.1101/090969	Scott L Allen	Scott Allen
+10.1101/090969	Stephen F Chenoweth	Stephen Chenoweth
+10.1101/090985	Aaron M Wenger	Aaron Wenger
+10.1101/090985	Christine C Lambert	Christine Lambert
+10.1101/090985	Daryl Waggott	Daryl Waggott
+10.1101/090985	Euan A Ashley	Euan Ashley
+10.1101/090985	James Ford	James Ford
+10.1101/090985	Jason Merker	Jason Merker
+10.1101/090985	Jonas Korlach	Jonas Korlach
+10.1101/090985	Kevin S Eng	Kevin Eng
+10.1101/090985	Luke Hickey	Luke Hickey
+10.1101/090985	Megan Grove	Megan Grove
+10.1101/090985	Sowmi Utiramerur	Sowmi Utiramerur
+10.1101/090985	Tam Sneddon	Tam Sneddon
+10.1101/090985	Yanli Hou	Yanli Hou
+10.1101/090993	A. Murat Eren	A. Eren
+10.1101/090993	David T Rubin	David Rubin
+10.1101/090993	Dionysios A Antonopoulos	Dionysios Antonopoulos
+10.1101/090993	Hilary G Morrison	Hilary Morrison
+10.1101/090993	Nathaniel A Hubert	Nathaniel Hubert
+10.1101/090993	Sonny TM Lee	Sonny Lee
+10.1101/090993	Stacy A Kahn	Stacy Kahn
+10.1101/090993	Tom O Delmont	Tom Delmont
+10.1101/091058	David Alan Rasmussen	David Rasmussen
+10.1101/091058	Nicola Felix Mueller	Nicola Mueller
+10.1101/091058	Tanja Stadler	Tanja Stadler
+10.1101/091066	Anders Eklund	Anders Eklund
+10.1101/091066	Martin A Lindquist	Martin Lindquist
+10.1101/091066	Mattias Villani	Mattias Villani
+10.1101/091074	Alessio Boattini	Alessio Boattini
+10.1101/091074	Chiara Barbieri	Chiara Barbieri
+10.1101/091074	Davide Pettener	Davide Pettener
+10.1101/091074	Donata Luiselli	Donata Luiselli
+10.1101/091074	EUGENIO BORTOLINI	EUGENIO BORTOLINI
+10.1101/091074	Enrico Ryunosuke Crema	Enrico Crema
+10.1101/091074	Gessica Martini	Gessica Martini
+10.1101/091074	Jamshid Johari Tehrani	Jamshid Tehrani
+10.1101/091074	Luca Pagani	Luca Pagani
+10.1101/091074	Mait Metspalu	Mait Metspalu
+10.1101/091074	Marco Sazzini	Marco Sazzini
+10.1101/091074	Sara Graca da Silva	Sara da Silva
+10.1101/091074	Stefania Sarno	Stefania Sarno
+10.1101/091082	Alvaro Chiner-Oms	Alvaro Chiner-Oms
+10.1101/091082	Fernando Gonzalez-Candelas	Fernando Gonzalez-Candelas
+10.1101/091082	Inaki Comas	Inaki Comas
+10.1101/091090	Aurelien Tellier	Aurelien Tellier
+10.1101/091090	Daniel Wegmann	Daniel Wegmann
+10.1101/091090	Florence Parat	Florence Parat
+10.1101/091090	Sandor Miklos Szilagyi	Sandor Szilagyi
+10.1101/091116	Carlos Cadorniga	Carlos Cadorniga
+10.1101/091116	Julia Bujan Valera	Julia Valera
+10.1101/091116	Mariacruz Lopez Diaz	Mariacruz Diaz
+10.1101/091124	Alessia Di Donfrancesco	Alessia Di Donfrancesco
+10.1101/091124	Alvina G Lai	Alvina Lai
+10.1101/091124	Aziz Aboobaker	Aziz Aboobaker
+10.1101/091124	Gerda Kildisiute	Gerda Kildisiute
+10.1101/091124	Natalia Pouchkina-Stantcheva	Natalia Pouchkina-Stantcheva
+10.1101/091124	Sounak Sahu	Sounak Sahu
+10.1101/091132	Daniel Soudry	Daniel Soudry
+10.1101/091132	Darcy S Peterka	Darcy Peterka
+10.1101/091132	Johannes Friedrich	Johannes Friedrich
+10.1101/091132	Liam Paninski	Liam Paninski
+10.1101/091132	Misha B Ahrens	Misha Ahrens
+10.1101/091132	Rafael Yuste	Rafael Yuste
+10.1101/091132	Weijian Yang	Weijian Yang
+10.1101/091132	Yu Mu	Yu Mu
+10.1101/091199	Eric Villiard	Eric Villiard
+10.1101/091199	Faranak Sadat Hashemi	Faranak Hashemi
+10.1101/091199	Gerardo Ferbeyre	Gerardo Ferbeyre
+10.1101/091199	Jean-Francois Denis	Jean-Francois Denis
+10.1101/091199	Sebastian Igelmann	Sebastian Igelmann
+10.1101/091199	Stephane Roy	Stephane Roy
+10.1101/091207	Horacio G Rotstein	Horacio Rotstein
+10.1101/091223	Anne Stringer	Anne Stringer
+10.1101/091223	Ashley Scott	Ashley Scott
+10.1101/091223	Courtney Benoit	Courtney Benoit
+10.1101/091223	Gabriele Baniulyte	Gabriele Baniulyte
+10.1101/091223	Joseph Wade	Joseph Wade
+10.1101/091223	Mauricio Paramo	Mauricio Paramo
+10.1101/091223	Navjot Singh	Navjot Singh
+10.1101/091223	Pascal Lapierre	Pascal Lapierre
+10.1101/091223	Richard Johnson	Richard Johnson
+10.1101/091223	Robert Ferguson	Robert Ferguson
+10.1101/091256	Andrei Korostelev	Andrei Korostelev
+10.1101/091256	Duncan Sousa	Duncan Sousa
+10.1101/091256	Egor Svidritskiy	Egor Svidritskiy
+10.1101/091256	Gabriel Demo	Gabriel Demo
+10.1101/091256	Nikolaus Grigorieff	Nikolaus Grigorieff
+10.1101/091256	Rohini Madireddy	Rohini Madireddy
+10.1101/091256	Ruben Diaz-Avalos	Ruben Diaz-Avalos
+10.1101/091256	Timothy Grant	Timothy Grant
+10.1101/091264	Gerome Breen	Gerome Breen
+10.1101/091264	Helena Alexandra Gaspar	Helena Gaspar
+10.1101/091272	Anastassis Perrakis	Anastassis Perrakis
+10.1101/091272	Daniela Leyton-Puig	Daniela Leyton-Puig
+10.1101/091272	Elisa Matas-Rico	Elisa Matas-Rico
+10.1101/091272	Katarzyna M Kedziora	Katarzyna Kedziora
+10.1101/091272	Kees Jalink	Kees Jalink
+10.1101/091272	Koen van de Wetering	Koen van de Wetering
+10.1101/091272	Michiel van Veen	Michiel van Veen
+10.1101/091272	Nicolai Sidenius	Nicolai Sidenius
+10.1101/091272	Wouter H Moolenaar	Wouter Moolenaar
+10.1101/091280	Adam J Richards	Adam Richards
+10.1101/091280	Anthony Herrel	Anthony Herrel
+10.1101/091280	Camille Bonneaud	Camille Bonneaud
+10.1101/091280	Konrad Paszkiewicz	Konrad Paszkiewicz
+10.1101/091280	Mathieu Videlier	Mathieu Videlier
+10.1101/091280	Nicolas Pollet	Nicolas Pollet
