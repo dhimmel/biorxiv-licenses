@@ -1,10 +1,10 @@
-INFO:root:"n/a n/a" removed as NA
+INFO:root:"n/a n/a" removed due to invalid characters
 INFO:root:"International Sheep Genomics Consortium n.a." removed as a consortium
 INFO:root:"Schizophrenia Working Group Psychiatric Genomics Consortium" removed as a consortium
 INFO:root:"Erik Renstr?m" removed due to invalid characters
 INFO:root:"Jo?o Fadista" removed due to invalid characters
 INFO:root:"n/a SWE-SCZ Consortium" removed as a consortium
-INFO:root:"n/a Schizophrenia Working Group of the PGC" removed as NA
+INFO:root:"n/a Schizophrenia Working Group of the PGC" removed due to invalid characters
 INFO:root:"- The 1000 Genomes Project" removed as project
 INFO:root:"Daniel J. M?ller" removed due to invalid characters
 INFO:root:"GTEx Consortium" removed as a consortium
