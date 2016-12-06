@@ -1,9 +1,13 @@
 # Exploring which licenses authors choose for their bioRxiv preprints
 
 This repository analyzes the licensing of [_bioRxiv_](http://biorxiv.org/ "The
-Preprint Server for Biology") preprints. The bioRxiv data was generated Omnes
+Preprint Server for Biology") preprints. The _bioRxiv_ data was generated Omnes
 Res for [PrePubMed](http://www.prepubmed.org/) — a search engine for biomedical
 preprints.
+
+The findings from this analysis are summarized in a blog post titled [The
+licensing of _bioRxiv_ preprints](http://blog.dhimmel.com/biorxiv-licenses/
+"Satoshi Village"), which analyzes preprints through but not past November 2016.
 
 ## Binder
 
@@ -12,13 +16,20 @@ preprints.
 Click the badge above to launch this repository in binder, which allows you to
 interact with the jupyter notebooks. Note that the mybinder.org build may be
 outdated. You can [rebuild it
-here](http://mybinder.org/status/dhimmel/biorxiv-licenses).
+here](http://mybinder.org/status/dhimmel/biorxiv-licenses). Binder uses the
+[`Dockerfile`](Dockerfile) in this repository to create a custom Docker image
+with the environment for this analysis.
 
 ## Notebooks
 
-+ [`1.download.ipynb`](1.download.ipynb) retrieves bioRxiv data from PrePubMed.
+The analysis is performed by running the following notebooks:
+
++ [`1.download.ipynb`](1.download.ipynb) retrieves _bioRxiv_ data from PrePubMed.
 + [`2.create-figure-data.ipynb`](2.create-figure-data.ipynb) creates JSON data
 files for vega-lite.
+
+[`execute.sh`](execute.sh) automates running the analysis for command line
+usage.
 
 ## License
 
