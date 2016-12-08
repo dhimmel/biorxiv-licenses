@@ -6,7 +6,6 @@ import re
 
 import altair
 import nameparser
-import probablepeople
 
 json_dump_kwargs = {
     'ensure_ascii': False,
