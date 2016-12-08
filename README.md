@@ -1,5 +1,7 @@
 # Exploring which licenses authors choose for their bioRxiv preprints
 
+[![Latest Zenodo DOI](https://zenodo.org/badge/74924525.svg)](https://zenodo.org/badge/latestdoi/74924525)
+
 This repository analyzes the licensing of [_bioRxiv_](http://biorxiv.org/ "The
 Preprint Server for Biology") preprints. The _bioRxiv_ data was generated Omnes
 Res for [PrePubMed](http://www.prepubmed.org/) — a search engine for biomedical
