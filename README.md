@@ -20,7 +20,7 @@ interact with the jupyter notebooks. Note that the mybinder.org build may be
 outdated. You can [rebuild it
 here](http://mybinder.org/status/dhimmel/biorxiv-licenses). Binder uses the
 [`environment.yml`](environment.yml) in this repository to create a custom Docker image
-with the environment for this analysis.
+with the environment for this analysis. If binder fails to load, check the [system status](http://mybinder.org/status/) and [gitter](https://gitter.im/binder-project/binder) before opening an issue here.
 
 ## Environment
 
@@ -40,6 +40,7 @@ The analysis is performed by running the following notebooks:
 + [`1.download.ipynb`](1.download.ipynb) retrieves _bioRxiv_ data from PrePubMed.
 + [`2.create-figure-data.ipynb`](2.create-figure-data.ipynb) creates JSON data
 files for vega-lite.
++ [`3.impact.ipynb`](3.impact.ipynb) investigates the impact of the [blog post](http://blog.dhimmel.com/biorxiv-licenses/) on author license choices.
 
 [`execute.sh`](execute.sh) automates running the analysis for command line
 usage.
