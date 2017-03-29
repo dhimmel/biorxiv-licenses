@@ -13,6 +13,7 @@ json_dump_kwargs = {
     'sort_keys': True,
 }
 
+
 def tidy_split(df, column, sep='|', keep=False):
     """
     Split the values of a column and expand so the new DataFrame has one split
@@ -50,10 +51,11 @@ def tidy_split(df, column, sep='|', keep=False):
     new_df[column] = new_values
     return new_df
 
+
 def df_to_vega_lite(df, path=None):
     """
     Export a pandas.DataFrame to a vega-lite data JSON.
-    
+
     Params
     ------
     df : pandas.DataFrame
@@ -69,6 +71,7 @@ def df_to_vega_lite(df, path=None):
     with open(path, 'w') as write_file:
         json.dump(data, write_file, **json_dump_kwargs)
 
+
 def df_to_datatables(df, path=None, double_precision=5, indent=2):
     """
     Convert a pandas dataframe to a JSON object formatted for datatables input.
@@ -83,8 +86,10 @@ def df_to_datatables(df, path=None, double_precision=5, indent=2):
     with open(path, 'w') as write_file:
         json.dump(obj, write_file, **json_dump_kwargs)
 
+
 # Invalid name characters from http://stackoverflow.com/q/1261338/4651668
 invalid_name = re.compile(r"[<,\"@/{}*$%?=>:|;#]")
+
 
 @functools.lru_cache(maxsize=10**6)
 def get_standard_author(author):
