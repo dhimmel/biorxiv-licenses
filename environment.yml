@@ -6,6 +6,8 @@ dependencies:
 - ipykernel=4.5.2
 - pandas=0.19.2
 - python=3.6.0
+- nbconvert=5.1.1
+- notebook=4.4.1
 - altair=1.2.0
 - requests=2.13.0
 - statsmodels=0.8.0
