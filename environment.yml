@@ -1,0 +1,10 @@
+name: biorxiv-licenses
+dependencies:
+- ipykernel=4.5.2
+- pandas=0.19.2
+- python=3.6.0
+- conda-forge::altair=1.2.0
+- requests=2.13.0
+- statsmodels=0.8.0
+- pip:
+  - nameparser==0.5.1

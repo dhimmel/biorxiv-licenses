@@ -22,6 +22,17 @@ here](http://mybinder.org/status/dhimmel/biorxiv-licenses). Binder uses the
 [`Dockerfile`](Dockerfile) in this repository to create a custom Docker image
 with the environment for this analysis.
 
+## Environment
+
+This repository uses [conda](http://conda.pydata.org/docs/) to manage its environment as specified in [`environment.yml`](environment.yml).
+Install the environment with:
+
+```sh
+conda env create --file=environment.yml
+```
+
+Then use `source activate biorxiv-licenses` and `source deactivate` to activate or deactivate the environment.
+
 ## Notebooks
 
 The analysis is performed by running the following notebooks:
