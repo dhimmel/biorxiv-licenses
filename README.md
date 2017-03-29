@@ -19,7 +19,7 @@ Click the badge above to launch this repository in binder, which allows you to
 interact with the jupyter notebooks. Note that the mybinder.org build may be
 outdated. You can [rebuild it
 here](http://mybinder.org/status/dhimmel/biorxiv-licenses). Binder uses the
-[`Dockerfile`](Dockerfile) in this repository to create a custom Docker image
+[`environment.yml`](environment.yml) in this repository to create a custom Docker image
 with the environment for this analysis.
 
 ## Environment
