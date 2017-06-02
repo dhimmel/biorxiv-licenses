@@ -168,6 +168,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/000513",
+    "Date": "2013-11-16",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/000521",
     "Date": "2014-04-17",
     "License": "CC BY-NC-ND",
@@ -196,6 +202,12 @@
     "Date": "2013-11-18",
     "License": "CC BY-NC",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/000604",
+    "Date": "2013-11-18",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/000638",
@@ -762,6 +774,12 @@
     "Subject": "Molecular Biology"
   },
   {
+    "DOI": "10.1101/001883",
+    "Date": "2014-01-17",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/001891",
     "Date": "2014-01-17",
     "License": "CC BY-NC-ND",
@@ -892,6 +910,12 @@
     "Date": "2014-02-02",
     "License": "CC BY-ND",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/002139",
+    "Date": "2014-01-27",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/002147",
@@ -1092,6 +1116,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/002618",
+    "Date": "2014-02-12",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/002626",
     "Date": "2014-11-03",
     "License": "None",
@@ -1114,6 +1144,12 @@
     "Date": "2014-03-27",
     "License": "None",
     "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/002667",
+    "Date": "2014-02-13",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/002675",
@@ -1836,6 +1872,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/004341",
+    "Date": "2014-04-21",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/004366",
     "Date": "2014-04-21",
     "License": "CC BY-NC-ND",
@@ -1846,6 +1888,12 @@
     "Date": "2015-06-02",
     "License": "CC BY-NC-ND",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/004382",
+    "Date": "2014-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/004416",
@@ -1942,6 +1990,12 @@
     "Date": "2014-04-29",
     "License": "None",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/004648",
+    "Date": "2014-04-30",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/004655",
@@ -2802,6 +2856,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/006676",
+    "Date": "2014-06-27",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/006684",
     "Date": "2014-11-10",
     "License": "CC BY-NC-ND",
@@ -2910,6 +2970,12 @@
     "Subject": "Cell Biology"
   },
   {
+    "DOI": "10.1101/006924",
+    "Date": "2014-07-08",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/006932",
     "Date": "2014-07-25",
     "License": "CC BY",
@@ -2920,6 +2986,12 @@
     "Date": "2015-09-09",
     "License": "CC BY",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/006965",
+    "Date": "2014-07-08",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/006973",
@@ -4500,6 +4572,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/010413",
+    "Date": "2014-10-16",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/010488",
     "Date": "2014-10-17",
     "License": "None",
@@ -4930,6 +5008,12 @@
     "Date": "2015-02-23",
     "License": "CC BY-ND",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/011387",
+    "Date": "2014-11-14",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/011403",
@@ -5418,6 +5502,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/012567",
+    "Date": "2014-12-12",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/012583",
     "Date": "2015-07-10",
     "License": "CC BY-NC-ND",
@@ -5874,6 +5964,12 @@
     "Subject": "Biochemistry"
   },
   {
+    "DOI": "10.1101/013599",
+    "Date": "2015-01-11",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/013607",
     "Date": "2015-06-09",
     "License": "CC BY",
@@ -6202,6 +6298,12 @@
     "Date": "2015-04-09",
     "License": "CC BY",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/014209",
+    "Date": "2015-06-25",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/014217",
@@ -6634,6 +6736,12 @@
     "Date": "2015-05-15",
     "License": "CC BY",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/015115",
+    "Date": "2015-02-11",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/015123",
@@ -7360,6 +7468,12 @@
     "Date": "2015-03-21",
     "License": "None",
     "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/016816",
+    "Date": "2015-03-30",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/016824",
@@ -8472,6 +8586,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/019174",
+    "Date": "2015-08-13",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/019182",
     "Date": "2015-05-11",
     "License": "CC BY",
@@ -9120,6 +9240,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/020560",
+    "Date": "2015-06-07",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/020578",
     "Date": "2015-06-07",
     "License": "None",
@@ -9754,6 +9880,12 @@
     "Date": "2015-07-08",
     "License": "CC BY-NC",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/021923",
+    "Date": "2015-07-05",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/021931",
@@ -10602,6 +10734,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/023747",
+    "Date": "2015-11-11",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/023754",
     "Date": "2015-08-03",
     "License": "CC BY-ND",
@@ -11100,6 +11238,12 @@
     "Subject": "Synthetic Biology"
   },
   {
+    "DOI": "10.1101/024828",
+    "Date": "2015-08-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/024844",
     "Date": "2015-08-17",
     "License": "CC BY",
@@ -11596,6 +11740,12 @@
     "Date": "2015-09-04",
     "License": "None",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/026039",
+    "Date": "2015-09-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/026062",
@@ -12154,6 +12304,12 @@
     "Date": "2015-11-04",
     "License": "CC BY-NC",
     "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/027326",
+    "Date": "2015-09-22",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/027334",
@@ -13440,6 +13596,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/030221",
+    "Date": "2015-10-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/030239",
     "Date": "2016-01-29",
     "License": "CC BY",
@@ -14418,6 +14580,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/032300",
+    "Date": "2015-11-20",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/032318",
     "Date": "2015-11-20",
     "License": "None",
@@ -15226,6 +15394,12 @@
     "Date": "2016-02-19",
     "License": "CC BY-NC-ND",
     "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/034066",
+    "Date": "2015-12-11",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/034074",
@@ -16980,6 +17154,12 @@
     "Subject": "Biophysics"
   },
   {
+    "DOI": "10.1101/037911",
+    "Date": "2016-01-26",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/037929",
     "Date": "2016-05-05",
     "License": "None",
@@ -17202,6 +17382,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/038398",
+    "Date": "2016-02-02",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/038406",
     "Date": "2016-02-15",
     "License": "CC BY-NC-ND",
@@ -17266,6 +17452,12 @@
     "Date": "2016-02-02",
     "License": "CC BY-NC-ND",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/038513",
+    "Date": "2016-02-02",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/038539",
@@ -17622,6 +17814,12 @@
     "Subject": "Developmental Biology"
   },
   {
+    "DOI": "10.1101/039297",
+    "Date": "2016-02-09",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/039313",
     "Date": "2016-02-09",
     "License": "CC BY",
@@ -17752,6 +17950,12 @@
     "Date": "2016-03-17",
     "License": "CC BY-NC",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/039578",
+    "Date": "2016-03-25",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/039594",
@@ -18768,6 +18972,12 @@
     "Subject": "Microbiology"
   },
   {
+    "DOI": "10.1101/041913",
+    "Date": "2016-03-02",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/041921",
     "Date": "2016-03-01",
     "License": "CC BY",
@@ -19042,6 +19252,12 @@
     "Date": "2016-03-05",
     "License": "CC BY-NC",
     "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/042507",
+    "Date": "2016-04-14",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/042515",
@@ -20034,6 +20250,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/044834",
+    "Date": "2016-03-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/044891",
     "Date": "2016-03-25",
     "License": "None",
@@ -20254,6 +20476,12 @@
     "Date": "2016-03-24",
     "License": "None",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/045344",
+    "Date": "2016-03-24",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/045351",
@@ -20814,6 +21042,12 @@
     "Subject": "Microbiology"
   },
   {
+    "DOI": "10.1101/046607",
+    "Date": "2016-03-31",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/046631",
     "Date": "2016-03-31",
     "License": "CC BY-NC",
@@ -20914,6 +21148,12 @@
     "Date": "2016-04-02",
     "License": "CC BY",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/046870",
+    "Date": "2016-04-03",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/046888",
@@ -22344,6 +22584,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/050112",
+    "Date": "2016-04-25",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/050138",
     "Date": "2016-04-25",
     "License": "CC BY-ND",
@@ -22426,6 +22672,12 @@
     "Date": "2016-04-26",
     "License": "CC BY-NC-ND",
     "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/050310",
+    "Date": "2016-04-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/050328",
@@ -24024,6 +24276,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/053967",
+    "Date": "2016-05-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/053975",
     "Date": "2016-05-18",
     "License": "CC BY",
@@ -24252,6 +24510,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/054502",
+    "Date": "2016-06-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/054528",
     "Date": "2016-05-21",
     "License": "CC BY-NC-ND",
@@ -24346,6 +24610,12 @@
     "Date": "2016-05-21",
     "License": "CC BY-NC-ND",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/054775",
+    "Date": "2016-05-22",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/054783",
@@ -24568,6 +24838,12 @@
     "Date": "2016-05-24",
     "License": "CC BY-NC-ND",
     "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/055293",
+    "Date": "2016-05-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/055319",
@@ -25224,6 +25500,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/056796",
+    "Date": "2016-06-02",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/056804",
     "Date": "2016-06-03",
     "License": "CC BY",
@@ -25660,6 +25942,12 @@
     "Date": "2016-06-08",
     "License": "None",
     "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/057851",
+    "Date": "2016-06-10",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/057885",
@@ -26286,6 +26574,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/059360",
+    "Date": "2017-04-13",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
     "DOI": "10.1101/059386",
     "Date": "2016-06-16",
     "License": "CC BY",
@@ -26370,6 +26664,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/059535",
+    "Date": "2016-06-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/059550",
     "Date": "2016-06-17",
     "License": "CC BY-NC-ND",
@@ -26386,6 +26686,12 @@
     "Date": "2016-09-21",
     "License": "CC BY",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/059592",
+    "Date": "2016-06-17",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/059600",
@@ -26740,6 +27046,12 @@
     "Date": "2016-06-22",
     "License": "CC BY-NC-ND",
     "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/060293",
+    "Date": "2016-06-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/060301",
@@ -27402,6 +27714,12 @@
     "Subject": "Microbiology"
   },
   {
+    "DOI": "10.1101/061879",
+    "Date": "2016-07-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/061911",
     "Date": "2016-07-04",
     "License": "None",
@@ -27864,6 +28182,12 @@
     "Subject": "Ecology"
   },
   {
+    "DOI": "10.1101/062877",
+    "Date": "2016-07-08",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/062885",
     "Date": "2016-07-08",
     "License": "CC BY",
@@ -28032,6 +28356,12 @@
     "Subject": "Biochemistry"
   },
   {
+    "DOI": "10.1101/063305",
+    "Date": "2016-07-12",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/063313",
     "Date": "2016-07-13",
     "License": "CC BY",
@@ -28156,6 +28486,12 @@
     "Date": "2016-07-13",
     "License": "CC BY-NC-ND",
     "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/063602",
+    "Date": "2016-07-13",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/063610",
@@ -28680,6 +29016,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/064857",
+    "Date": "2016-07-20",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/064873",
     "Date": "2016-07-20",
     "License": "CC BY-NC-ND",
@@ -29034,6 +29376,12 @@
     "Subject": "Systems Biology"
   },
   {
+    "DOI": "10.1101/065706",
+    "Date": "2016-07-25",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/065714",
     "Date": "2016-07-25",
     "License": "None",
@@ -29044,6 +29392,18 @@
     "Date": "2016-07-25",
     "License": "CC BY-NC",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/065730",
+    "Date": "2016-07-26",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/065748",
+    "Date": "2016-07-26",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/065755",
@@ -29244,6 +29604,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/066225",
+    "Date": "2016-07-27",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/066233",
     "Date": "2016-07-27",
     "License": "CC BY-NC-ND",
@@ -29394,6 +29760,12 @@
     "Subject": "Microbiology"
   },
   {
+    "DOI": "10.1101/066571",
+    "Date": "2016-07-28",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/066589",
     "Date": "2016-07-29",
     "License": "CC BY-ND",
@@ -29494,6 +29866,12 @@
     "Date": "2016-07-31",
     "License": "None",
     "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/066878",
+    "Date": "2016-07-29",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/066902",
@@ -31518,6 +31896,12 @@
     "Subject": "Animal Behavior & Cogn."
   },
   {
+    "DOI": "10.1101/071316",
+    "Date": "2016-08-24",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/071324",
     "Date": "2016-08-25",
     "License": "None",
@@ -31698,6 +32082,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/071720",
+    "Date": "2016-08-26",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/071746",
     "Date": "2016-08-26",
     "License": "CC BY-NC-ND",
@@ -31756,6 +32146,12 @@
     "Date": "2016-08-27",
     "License": "None",
     "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/071878",
+    "Date": "2016-08-27",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/071886",
@@ -32764,6 +33160,12 @@
     "Date": "2016-09-10",
     "License": "None",
     "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/074344",
+    "Date": "2016-09-12",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/074351",
@@ -33912,6 +34314,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/076935",
+    "Date": "2016-09-23",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/076968",
     "Date": "2016-09-22",
     "License": "CC BY-NC-ND",
@@ -34096,6 +34504,12 @@
     "Date": "2016-09-26",
     "License": "CC BY-NC",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/077487",
+    "Date": "2016-09-26",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/077503",
@@ -36186,6 +36600,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/082057",
+    "Date": "2016-11-20",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/082065",
     "Date": "2016-10-20",
     "License": "CC BY-ND",
@@ -36942,6 +37362,12 @@
     "Subject": "Plant Biology"
   },
   {
+    "DOI": "10.1101/083873",
+    "Date": "2016-10-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/083881",
     "Date": "2016-10-27",
     "License": "None",
@@ -37060,6 +37486,12 @@
     "Date": "2016-10-28",
     "License": "CC BY-NC-ND",
     "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/084152",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
   },
   {
     "DOI": "10.1101/084160",
@@ -37704,6 +38136,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/085597",
+    "Date": "2016-11-03",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/085605",
     "Date": "2016-11-04",
     "License": "CC BY-NC-ND",
@@ -38286,6 +38724,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/086884",
+    "Date": "2016-11-10",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/086892",
     "Date": "2016-11-10",
     "License": "None",
@@ -38350,6 +38794,12 @@
     "Date": "2016-11-10",
     "License": "None",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/087106",
+    "Date": "2016-11-10",
+    "License": "CC BY-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/087114",
@@ -38502,6 +38952,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/087411",
+    "Date": "2016-11-14",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/087429",
     "Date": "2016-11-12",
     "License": "CC BY-NC-ND",
@@ -38536,6 +38992,12 @@
     "Date": "2016-11-14",
     "License": "CC BY-NC-ND",
     "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/087502",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
   },
   {
     "DOI": "10.1101/087510",
@@ -38964,6 +39426,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/088443",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
     "DOI": "10.1101/088468",
     "Date": "2016-11-17",
     "License": "None",
@@ -39124,6 +39592,12 @@
     "Date": "2016-11-21",
     "License": "CC BY",
     "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/088831",
+    "Date": "2016-11-21",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/088849",
@@ -39304,6 +39778,12 @@
     "Date": "2016-11-22",
     "License": "None",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/089235",
+    "Date": "2016-11-22",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/089243",
@@ -40066,6 +40546,12 @@
     "Date": "2016-12-02",
     "License": "None",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/090936",
+    "Date": "2016-12-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/090969",
@@ -41976,6 +42462,12 @@
     "Subject": "Microbiology"
   },
   {
+    "DOI": "10.1101/095455",
+    "Date": "2016-12-20",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/095463",
     "Date": "2016-12-20",
     "License": "None",
@@ -42658,6 +43150,12 @@
     "Date": "2016-12-31",
     "License": "None",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/097600",
+    "Date": "2016-12-31",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/097618",
@@ -43626,6 +44124,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/102327",
+    "Date": "2017-03-29",
+    "License": "CC BY-ND",
+    "Subject": "Genomics"
+  },
+  {
     "DOI": "10.1101/102343",
     "Date": "2017-01-27",
     "License": "CC BY-NC-ND",
@@ -44232,6 +44736,12 @@
     "Subject": "Epidemiology"
   },
   {
+    "DOI": "10.1101/104414",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
     "DOI": "10.1101/104422",
     "Date": "2017-01-30",
     "License": "CC BY",
@@ -44754,6 +45264,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/106419",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
     "DOI": "10.1101/106450",
     "Date": "2017-02-07",
     "License": "CC BY-NC-ND",
@@ -44926,6 +45442,12 @@
     "Date": "2017-02-08",
     "License": "None",
     "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/106898",
+    "Date": "2017-02-08",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/106906",
@@ -45204,6 +45726,12 @@
     "Subject": "Genomics"
   },
   {
+    "DOI": "10.1101/107805",
+    "Date": "2017-02-11",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/107813",
     "Date": "2017-02-11",
     "License": "CC BY",
@@ -45402,6 +45930,12 @@
     "Subject": "Genetics"
   },
   {
+    "DOI": "10.1101/108506",
+    "Date": "2017-04-21",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
     "DOI": "10.1101/108514",
     "Date": "2017-02-14",
     "License": "CC BY-NC-ND",
@@ -45480,6 +46014,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/108746",
+    "Date": "2017-02-15",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/108753",
     "Date": "2017-02-15",
     "License": "None",
@@ -45544,6 +46084,12 @@
     "Date": "2017-02-16",
     "License": "CC BY",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/108951",
+    "Date": "2017-02-16",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/109033",
@@ -45744,10 +46290,22 @@
     "Subject": "Developmental Biology"
   },
   {
+    "DOI": "10.1101/109769",
+    "Date": "2017-02-19",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/109777",
     "Date": "2017-02-19",
     "License": "CC BY-NC-ND",
     "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/109785",
+    "Date": "2017-02-19",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/109793",
@@ -46182,10 +46740,22 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/110940",
+    "Date": "2017-02-25",
+    "License": "CC BY-NC",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/110965",
     "Date": "2017-02-23",
     "License": "CC BY-NC-ND",
     "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/110981",
+    "Date": "2017-02-22",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/110999",
@@ -46398,6 +46968,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/111542",
+    "Date": "2017-02-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/111559",
     "Date": "2017-02-24",
     "License": "CC BY",
@@ -46432,6 +47008,12 @@
     "Date": "2017-02-25",
     "License": "CC BY-NC-ND",
     "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/111658",
+    "Date": "2017-02-27",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/111690",
@@ -46602,6 +47184,12 @@
     "Subject": "Epidemiology"
   },
   {
+    "DOI": "10.1101/112219",
+    "Date": "2017-04-02",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
     "DOI": "10.1101/112235",
     "Date": "2017-02-27",
     "License": "CC BY-NC-ND",
@@ -46692,6 +47280,12 @@
     "Subject": "Bioinformatics"
   },
   {
+    "DOI": "10.1101/112425",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC",
+    "Subject": "Plant Biology"
+  },
+  {
     "DOI": "10.1101/112433",
     "Date": "2017-02-28",
     "License": "CC BY-NC-ND",
@@ -46776,6 +47370,12 @@
     "Subject": "Microbiology"
   },
   {
+    "DOI": "10.1101/112656",
+    "Date": "2017-03-01",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/112664",
     "Date": "2017-03-01",
     "License": "CC BY-ND",
@@ -46818,6 +47418,12 @@
     "Subject": "Systems Biology"
   },
   {
+    "DOI": "10.1101/112755",
+    "Date": "2017-03-01",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/112763",
     "Date": "2017-03-02",
     "License": "CC BY-NC-ND",
@@ -46858,6 +47464,12 @@
     "Date": "2017-03-02",
     "License": "CC BY",
     "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/112912",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
   },
   {
     "DOI": "10.1101/112946",
@@ -47224,6 +47836,12 @@
     "Date": "2017-03-07",
     "License": "CC BY-NC-ND",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/114157",
+    "Date": "2017-03-06",
+    "License": "CC BY",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/114272",
@@ -47856,6 +48474,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/116079",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
     "DOI": "10.1101/116087",
     "Date": "2017-03-12",
     "License": "CC BY-ND",
@@ -47878,6 +48502,12 @@
     "Date": "2017-03-12",
     "License": "CC BY",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/116145",
+    "Date": "2017-03-12",
+    "License": "None",
+    "Subject": "Immunology"
   },
   {
     "DOI": "10.1101/116160",
@@ -48090,6 +48720,12 @@
     "Subject": "Evolutionary Biology"
   },
   {
+    "DOI": "10.1101/116665",
+    "Date": "2017-03-14",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/116681",
     "Date": "2017-03-14",
     "License": "CC BY",
@@ -48130,6 +48766,12 @@
     "Date": "2017-03-15",
     "License": "CC BY-NC",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/117028",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
   },
   {
     "DOI": "10.1101/117044",
@@ -48780,6 +49422,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/119297",
+    "Date": "2017-03-22",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
     "DOI": "10.1101/119305",
     "Date": "2017-03-22",
     "License": "None",
@@ -48888,6 +49536,12 @@
     "Subject": "Neuroscience"
   },
   {
+    "DOI": "10.1101/119651",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
     "DOI": "10.1101/119669",
     "Date": "2017-03-23",
     "License": "None",
@@ -48952,6 +49606,12 @@
     "Date": "2017-03-23",
     "License": "CC BY-NC",
     "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/119800",
+    "Date": "2017-04-12",
+    "License": "None",
+    "Subject": "Cell Biology"
   },
   {
     "DOI": "10.1101/119818",
@@ -49068,6 +49728,12 @@
     "Subject": "Synthetic Biology"
   },
   {
+    "DOI": "10.1101/120261",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
     "DOI": "10.1101/120295",
     "Date": "2017-03-24",
     "License": "CC BY-ND",
@@ -49126,6 +49792,12 @@
     "Date": "2017-03-25",
     "License": "None",
     "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/120410",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
   },
   {
     "DOI": "10.1101/120428",
@@ -49194,10 +49866,22 @@
     "Subject": "Biophysics"
   },
   {
+    "DOI": "10.1101/120550",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC",
+    "Subject": "Epidemiology"
+  },
+  {
     "DOI": "10.1101/120584",
     "Date": "2017-03-25",
     "License": "None",
     "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/120592",
+    "Date": "2017-03-26",
+    "License": "None",
+    "Subject": "Bioinformatics"
   },
   {
     "DOI": "10.1101/120600",
@@ -49210,5 +49894,4235 @@
     "Date": "2017-03-25",
     "License": "CC BY",
     "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/120642",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/120659",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/120667",
+    "Date": "2017-03-26",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/120675",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/120683",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/120709",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/120725",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/120733",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/120758",
+    "Date": "2017-03-27",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/120766",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/120808",
+    "Date": "2017-03-26",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/120857",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/120865",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/120873",
+    "Date": "2017-03-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/120899",
+    "Date": "2017-03-26",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/120915",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/120923",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/120931",
+    "Date": "2017-03-27",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/120956",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/120964",
+    "Date": "2017-03-27",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/120998",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/121012",
+    "Date": "2017-04-14",
+    "License": "CC BY-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/121020",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121053",
+    "Date": "2017-03-27",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/121079",
+    "Date": "2017-03-27",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121087",
+    "Date": "2017-03-27",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121103",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/121145",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/121152",
+    "Date": "2017-03-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/121228",
+    "Date": "2017-03-27",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/121277",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121285",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121293",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121301",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/121335",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/121343",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121350",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121376",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/121384",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/121392",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/121400",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/121418",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/121426",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/121434",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/121459",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121483",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/121491",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/121509",
+    "Date": "2017-03-29",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121517",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/121525",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121533",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121558",
+    "Date": "2017-03-28",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/121574",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121582",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/121590",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/121608",
+    "Date": "2017-03-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121640",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/121665",
+    "Date": "2017-03-28",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/121673",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/121731",
+    "Date": "2017-03-29",
+    "License": "CC BY-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/121749",
+    "Date": "2017-03-29",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121756",
+    "Date": "2017-03-29",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121764",
+    "Date": "2017-03-29",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121772",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/121780",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/121798",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/121806",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121814",
+    "Date": "2017-03-29",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/121822",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/121830",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/121855",
+    "Date": "2017-03-29",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/121863",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121871",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/121889",
+    "Date": "2017-03-31",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121897",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121905",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/121913",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/121921",
+    "Date": "2017-03-29",
+    "License": "CC BY-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/121939",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121947",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/121954",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/121962",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122002",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122010",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122028",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122036",
+    "Date": "2017-03-29",
+    "License": "CC BY-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/122044",
+    "Date": "2017-03-29",
+    "License": "CC BY",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/122051",
+    "Date": "2017-03-29",
+    "License": "CC BY-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/122069",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/122077",
+    "Date": "2017-03-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122150",
+    "Date": "2017-03-30",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122184",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/122200",
+    "Date": "2017-04-02",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/122218",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/122226",
+    "Date": "2017-03-30",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122234",
+    "Date": "2017-03-31",
+    "License": "CC BY-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/122242",
+    "Date": "2017-03-30",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/122259",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/122267",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122275",
+    "Date": "2017-03-30",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122283",
+    "Date": "2017-03-30",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/122325",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122341",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/122358",
+    "Date": "2017-03-30",
+    "License": "CC BY-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/122374",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/122382",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122390",
+    "Date": "2017-03-30",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/122408",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/122432",
+    "Date": "2017-03-30",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122457",
+    "Date": "2017-04-13",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/122465",
+    "Date": "2017-03-30",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/122473",
+    "Date": "2017-03-30",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122499",
+    "Date": "2017-03-30",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/122523",
+    "Date": "2017-03-30",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122531",
+    "Date": "2017-03-30",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/122549",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/122580",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122598",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122614",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/122648",
+    "Date": "2017-04-29",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/122655",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/122671",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/122689",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122697",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122705",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122713",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/122739",
+    "Date": "2017-04-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/122747",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122754",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/122770",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122788",
+    "Date": "2017-03-31",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122812",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122820",
+    "Date": "2017-03-31",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122838",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122846",
+    "Date": "2017-03-31",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/122879",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122887",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122895",
+    "Date": "2017-03-31",
+    "License": "CC BY-NC",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/122903",
+    "Date": "2017-03-31",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/122937",
+    "Date": "2017-03-31",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122945",
+    "Date": "2017-03-31",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/122960",
+    "Date": "2017-03-31",
+    "License": "CC BY-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/122978",
+    "Date": "2017-03-31",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/122986",
+    "Date": "2017-04-01",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/123026",
+    "Date": "2017-04-01",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/123067",
+    "Date": "2017-04-02",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/123117",
+    "Date": "2017-04-01",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/123125",
+    "Date": "2017-04-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/123133",
+    "Date": "2017-04-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/123141",
+    "Date": "2017-04-01",
+    "License": "None",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/123158",
+    "Date": "2017-04-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/123166",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/123174",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/123208",
+    "Date": "2017-04-02",
+    "License": "CC BY-ND",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/123232",
+    "Date": "2017-04-02",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/123265",
+    "Date": "2017-04-02",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/123273",
+    "Date": "2017-04-02",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/123281",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123299",
+    "Date": "2017-04-02",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123331",
+    "Date": "2017-04-03",
+    "License": "CC BY-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/123349",
+    "Date": "2017-04-09",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/123364",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/123406",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123414",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123430",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123448",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/123455",
+    "Date": "2017-04-03",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123463",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/123471",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123489",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/123497",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/123521",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123547",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/123588",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123596",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/123604",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/123612",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123620",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/123646",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123653",
+    "Date": "2017-04-03",
+    "License": "None",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/123661",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC-ND",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/123679",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/123687",
+    "Date": "2017-04-03",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/123695",
+    "Date": "2017-04-03",
+    "License": "CC BY-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123703",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/123711",
+    "Date": "2017-04-04",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/123729",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/123752",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/123794",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/123802",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/123810",
+    "Date": "2017-04-04",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123844",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123851",
+    "Date": "2017-04-03",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/123869",
+    "Date": "2017-04-14",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/123877",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/123901",
+    "Date": "2017-04-04",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/123935",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/123943",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/123976",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/123992",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/124008",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/124016",
+    "Date": "2017-04-04",
+    "License": "CC BY-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124024",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/124032",
+    "Date": "2017-04-04",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/124057",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/124065",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/124073",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/124081",
+    "Date": "2017-04-04",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/124099",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/124107",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/124115",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/124123",
+    "Date": "2017-04-04",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124149",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124156",
+    "Date": "2017-04-04",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124172",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/124180",
+    "Date": "2017-04-04",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124206",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124230",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/124297",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/124321",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124339",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124347",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/124354",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124370",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/124396",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/124412",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/124420",
+    "Date": "2017-04-05",
+    "License": "CC BY-ND",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/124438",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/124446",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/124453",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124479",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/124503",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/124511",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/124529",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124552",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/124560",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/124578",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/124586",
+    "Date": "2017-04-12",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/124594",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/124610",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/124628",
+    "Date": "2017-04-05",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124636",
+    "Date": "2017-04-05",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/124644",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/124651",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/124669",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124677",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124685",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/124719",
+    "Date": "2017-04-06",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124735",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124743",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/124784",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/124792",
+    "Date": "2017-04-05",
+    "License": "CC BY-NC",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/124826",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/124834",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC-ND",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/124842",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/124867",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124875",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124891",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/124925",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/124941",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/124982",
+    "Date": "2017-04-06",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/125013",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/125039",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125054",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/125062",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125070",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125088",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/125096",
+    "Date": "2017-04-06",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125104",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/125120",
+    "Date": "2017-04-06",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/125187",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/125195",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/125203",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/125211",
+    "Date": "2017-04-07",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125229",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125237",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/125245",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/125252",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/125260",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125278",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/125294",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/125302",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/125336",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/125344",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/125351",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125369",
+    "Date": "2017-04-10",
+    "License": "CC BY-ND",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/125385",
+    "Date": "2017-04-07",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/125419",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/125435",
+    "Date": "2017-04-07",
+    "License": "CC BY-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/125443",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125450",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/125476",
+    "Date": "2017-04-07",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/125484",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/125492",
+    "Date": "2017-04-13",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/125500",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/125518",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/125526",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125534",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125542",
+    "Date": "2017-04-13",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125567",
+    "Date": "2017-04-07",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/125575",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/125591",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125682",
+    "Date": "2017-04-15",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125708",
+    "Date": "2017-04-08",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/125716",
+    "Date": "2017-04-13",
+    "License": "CC BY-ND",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/125724",
+    "Date": "2017-04-09",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/125781",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/125815",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/125823",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/125831",
+    "Date": "2017-04-09",
+    "License": "CC BY",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/125849",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125856",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125872",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125880",
+    "Date": "2017-04-13",
+    "License": "CC BY-ND",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/125898",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125906",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125922",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/125930",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/125963",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/125971",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/125989",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/125997",
+    "Date": "2017-04-11",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/126045",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/126052",
+    "Date": "2017-04-10",
+    "License": "CC BY-ND",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/126078",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/126086",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126102",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/126136",
+    "Date": "2017-04-10",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126151",
+    "Date": "2017-04-10",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/126169",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/126201",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/126219",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126276",
+    "Date": "2017-04-10",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/126284",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/126292",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126300",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126326",
+    "Date": "2017-04-11",
+    "License": "CC BY-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/126334",
+    "Date": "2017-04-11",
+    "License": "CC BY-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/126359",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/126367",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/126375",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/126383",
+    "Date": "2017-04-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/126409",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/126417",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/126425",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126433",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126441",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126458",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/126474",
+    "Date": "2017-04-11",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/126482",
+    "Date": "2017-04-11",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126490",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126508",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/126516",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/126524",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126532",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126540",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/126573",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126607",
+    "Date": "2017-04-11",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126623",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/126631",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/126649",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126664",
+    "Date": "2017-04-18",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126672",
+    "Date": "2017-04-11",
+    "License": "CC BY-NC",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/126680",
+    "Date": "2017-04-11",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126714",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/126813",
+    "Date": "2017-04-12",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/126821",
+    "Date": "2017-04-12",
+    "License": "CC BY-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/126839",
+    "Date": "2017-04-18",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/126847",
+    "Date": "2017-04-13",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/126862",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/126870",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126888",
+    "Date": "2017-04-12",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/126904",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/126912",
+    "Date": "2017-04-12",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/126920",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/126938",
+    "Date": "2017-04-12",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/126946",
+    "Date": "2017-04-12",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126953",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126979",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/126987",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/126995",
+    "Date": "2017-04-12",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/127001",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127035",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/127043",
+    "Date": "2017-04-13",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127050",
+    "Date": "2017-04-12",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/127068",
+    "Date": "2017-04-12",
+    "License": "CC BY-NC-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/127118",
+    "Date": "2017-04-13",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/127126",
+    "Date": "2017-04-13",
+    "License": "CC BY-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/127134",
+    "Date": "2017-04-13",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/127142",
+    "Date": "2017-04-13",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/127159",
+    "Date": "2017-04-13",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/127167",
+    "Date": "2017-04-13",
+    "License": "CC BY-NC-ND",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/127183",
+    "Date": "2017-04-13",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/127217",
+    "Date": "2017-04-13",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/127241",
+    "Date": "2017-04-13",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127258",
+    "Date": "2017-04-18",
+    "License": "CC BY",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/127274",
+    "Date": "2017-04-13",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/127282",
+    "Date": "2017-04-13",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127373",
+    "Date": "2017-04-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/127423",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127449",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/127464",
+    "Date": "2017-04-14",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127472",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/127480",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/127498",
+    "Date": "2017-04-14",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127506",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/127514",
+    "Date": "2017-04-14",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/127522",
+    "Date": "2017-04-14",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127548",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/127555",
+    "Date": "2017-04-14",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/127563",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127571",
+    "Date": "2017-04-15",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/127589",
+    "Date": "2017-04-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/127613",
+    "Date": "2017-04-14",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/127639",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/127647",
+    "Date": "2017-04-15",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/127654",
+    "Date": "2017-04-15",
+    "License": "CC BY",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/127662",
+    "Date": "2017-04-15",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/127670",
+    "Date": "2017-04-15",
+    "License": "CC BY-NC",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/127688",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/127720",
+    "Date": "2017-04-15",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127738",
+    "Date": "2017-04-15",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127852",
+    "Date": "2017-04-16",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127860",
+    "Date": "2017-04-28",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127878",
+    "Date": "2017-04-16",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127894",
+    "Date": "2017-04-17",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/127902",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/127910",
+    "Date": "2017-04-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/127936",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/127944",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/127951",
+    "Date": "2017-04-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/127977",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/127985",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/127993",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/128009",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/128025",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/128033",
+    "Date": "2017-04-17",
+    "License": "CC BY",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/128041",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/128066",
+    "Date": "2017-04-17",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128074",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128082",
+    "Date": "2017-04-17",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/128090",
+    "Date": "2017-04-18",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/128116",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/128124",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128165",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128199",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/128207",
+    "Date": "2017-04-18",
+    "License": "CC BY-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/128215",
+    "Date": "2017-04-20",
+    "License": "CC BY-ND",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/128223",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128231",
+    "Date": "2017-04-18",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128249",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128264",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/128272",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128280",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/128298",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128306",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128322",
+    "Date": "2017-04-18",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128330",
+    "Date": "2017-04-18",
+    "License": "CC BY-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128348",
+    "Date": "2017-04-18",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128371",
+    "Date": "2017-04-18",
+    "License": "CC BY-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/128488",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128496",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/128512",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128520",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128561",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/128579",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128587",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128595",
+    "Date": "2017-04-19",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/128603",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/128611",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128629",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128637",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128645",
+    "Date": "2017-04-19",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128660",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128678",
+    "Date": "2017-04-19",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128686",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128710",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128728",
+    "Date": "2017-04-19",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/128736",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/128744",
+    "Date": "2017-04-19",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128751",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/128769",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128777",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/128785",
+    "Date": "2017-04-21",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128793",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128801",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/128819",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128827",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/128843",
+    "Date": "2017-04-19",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/128850",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128876",
+    "Date": "2017-04-19",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128884",
+    "Date": "2017-04-19",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/128918",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/128926",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/128934",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/128942",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/128959",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/128967",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/128975",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/128983",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/129007",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129015",
+    "Date": "2017-04-20",
+    "License": "CC BY-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129023",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/129049",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/129056",
+    "Date": "2017-04-21",
+    "License": "CC BY-NC-ND",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/129064",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/129072",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/129130",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129148",
+    "Date": "2017-04-21",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/129155",
+    "Date": "2017-04-20",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129163",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/129171",
+    "Date": "2017-04-20",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129189",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/129197",
+    "Date": "2017-04-20",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/129221",
+    "Date": "2017-04-21",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129247",
+    "Date": "2017-04-21",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/129254",
+    "Date": "2017-04-21",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/129262",
+    "Date": "2017-04-21",
+    "License": "CC BY-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/129288",
+    "Date": "2017-04-21",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/129296",
+    "Date": "2017-04-21",
+    "License": "CC BY-NC-ND",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/129312",
+    "Date": "2017-04-21",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/129346",
+    "Date": "2017-04-21",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/129353",
+    "Date": "2017-04-29",
+    "License": "CC BY",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/129379",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/129395",
+    "Date": "2017-04-21",
+    "License": "CC BY-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/129403",
+    "Date": "2017-04-21",
+    "License": "CC BY-ND",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/129429",
+    "Date": "2017-04-25",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/129510",
+    "Date": "2017-04-22",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129536",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/129551",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129593",
+    "Date": "2017-04-22",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129601",
+    "Date": "2017-04-22",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/129627",
+    "Date": "2017-04-22",
+    "License": "CC BY",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/129643",
+    "Date": "2017-04-22",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129668",
+    "Date": "2017-04-22",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/129676",
+    "Date": "2017-04-23",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129734",
+    "Date": "2017-04-23",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/129759",
+    "Date": "2017-04-23",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/129767",
+    "Date": "2017-04-23",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/129791",
+    "Date": "2017-04-23",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/129809",
+    "Date": "2017-04-23",
+    "License": "CC BY",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/129825",
+    "Date": "2017-04-23",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/129833",
+    "Date": "2017-04-27",
+    "License": "CC BY",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/129841",
+    "Date": "2017-04-23",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/129866",
+    "Date": "2017-04-23",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/129908",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/129999",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130013",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/130021",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/130054",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130062",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/130070",
+    "Date": "2017-04-24",
+    "License": "CC BY-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/130088",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Synthetic Biology"
+  },
+  {
+    "DOI": "10.1101/130096",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/130104",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/130112",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/130120",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130138",
+    "Date": "2017-04-24",
+    "License": "CC BY-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130146",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/130161",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/130179",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/130195",
+    "Date": "2017-04-24",
+    "License": "CC BY-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/130203",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130211",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/130229",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130237",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/130245",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/130252",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/130260",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/130278",
+    "Date": "2017-04-24",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/130286",
+    "Date": "2017-04-27",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/130294",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/130302",
+    "Date": "2017-04-25",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/130336",
+    "Date": "2017-04-24",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/130351",
+    "Date": "2017-04-24",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/130484",
+    "Date": "2017-04-25",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/130526",
+    "Date": "2017-04-25",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/130559",
+    "Date": "2017-04-25",
+    "License": "CC BY-NC",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/130567",
+    "Date": "2017-04-25",
+    "License": "CC BY",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/130591",
+    "Date": "2017-04-27",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/130658",
+    "Date": "2017-04-29",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/130682",
+    "Date": "2017-04-25",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/130690",
+    "Date": "2017-04-25",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/130724",
+    "Date": "2017-04-29",
+    "License": "None",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/130740",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/130765",
+    "Date": "2017-04-25",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/130781",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/130815",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/130831",
+    "Date": "2017-04-25",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/130849",
+    "Date": "2017-04-27",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/130864",
+    "Date": "2017-04-25",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/130880",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/130955",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/130989",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/130997",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/131003",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/131011",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/131029",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/131037",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/131060",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/131086",
+    "Date": "2017-04-26",
+    "License": "CC BY-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/131094",
+    "Date": "2017-04-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/131110",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/131136",
+    "Date": "2017-04-26",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/131144",
+    "Date": "2017-04-26",
+    "License": "CC BY",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/131227",
+    "Date": "2017-04-27",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/131243",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/131250",
+    "Date": "2017-04-26",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131359",
+    "Date": "2017-04-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/131367",
+    "Date": "2017-04-27",
+    "License": "CC BY-NC",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/131391",
+    "Date": "2017-04-27",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/131409",
+    "Date": "2017-04-27",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131417",
+    "Date": "2017-04-27",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/131425",
+    "Date": "2017-04-27",
+    "License": "CC BY",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/131433",
+    "Date": "2017-04-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131508",
+    "Date": "2017-04-27",
+    "License": "CC BY",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/131516",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131524",
+    "Date": "2017-04-27",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131532",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131540",
+    "Date": "2017-04-29",
+    "License": "CC BY",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/131573",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/131599",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/131623",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131649",
+    "Date": "2017-04-28",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/131706",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/131714",
+    "Date": "2017-04-28",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/131730",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/131748",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/131755",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/131789",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/131805",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/131862",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/131888",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/131904",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/131938",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/131987",
+    "Date": "2017-04-28",
+    "License": "CC BY",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/131995",
+    "Date": "2017-04-28",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/132019",
+    "Date": "2017-04-29",
+    "License": "CC BY",
+    "Subject": "Epidemiology"
+  },
+  {
+    "DOI": "10.1101/132050",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/132076",
+    "Date": "2017-04-28",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/132092",
+    "Date": "2017-04-28",
+    "License": "None",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/132175",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/132282",
+    "Date": "2017-04-29",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/132423",
+    "Date": "2017-04-30",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132431",
+    "Date": "2017-04-30",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/132456",
+    "Date": "2017-04-30",
+    "License": "CC BY-NC",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/132514",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132555",
+    "Date": "2017-05-01",
+    "License": "CC BY",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/132563",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/132571",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/132597",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132605",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132613",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/132621",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132647",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genetics"
+  },
+  {
+    "DOI": "10.1101/132654",
+    "Date": "2017-05-01",
+    "License": "CC BY",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/132670",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132688",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132696",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/132704",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132746",
+    "Date": "2017-05-01",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132753",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC",
+    "Subject": "Ecology"
+  },
+  {
+    "DOI": "10.1101/132761",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132779",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Cancer Biology"
+  },
+  {
+    "DOI": "10.1101/132787",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC",
+    "Subject": "Plant Biology"
+  },
+  {
+    "DOI": "10.1101/132795",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132811",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132829",
+    "Date": "2017-05-01",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132837",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132860",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/132878",
+    "Date": "2017-05-01",
+    "License": "CC BY-ND",
+    "Subject": "Evolutionary Biology"
+  },
+  {
+    "DOI": "10.1101/132894",
+    "Date": "2017-05-01",
+    "License": "CC BY",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/132902",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Immunology"
+  },
+  {
+    "DOI": "10.1101/132928",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132936",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132951",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/132977",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/132985",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Genomics"
+  },
+  {
+    "DOI": "10.1101/132993",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/133009",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133025",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/133033",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/133041",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133058",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133066",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Animal Behavior & Cogn."
+  },
+  {
+    "DOI": "10.1101/133074",
+    "Date": "2017-05-01",
+    "License": "CC BY-NC-ND",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/133082",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Biophysics"
+  },
+  {
+    "DOI": "10.1101/133090",
+    "Date": "2017-05-01",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/133108",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133116",
+    "Date": "2017-05-02",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133124",
+    "Date": "2017-05-01",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/133157",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133165",
+    "Date": "2017-05-02",
+    "License": "None",
+    "Subject": "Systems Biology"
+  },
+  {
+    "DOI": "10.1101/133173",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133181",
+    "Date": "2017-05-02",
+    "License": "None",
+    "Subject": "Microbiology"
+  },
+  {
+    "DOI": "10.1101/133215",
+    "Date": "2017-05-02",
+    "License": "CC BY-ND",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "DOI": "10.1101/133223",
+    "Date": "2017-05-02",
+    "License": "None",
+    "Subject": "Cell Biology"
+  },
+  {
+    "DOI": "10.1101/133264",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Molecular Biology"
+  },
+  {
+    "DOI": "10.1101/133272",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC-ND",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/133298",
+    "Date": "2017-05-02",
+    "License": "None",
+    "Subject": "Biochemistry"
+  },
+  {
+    "DOI": "10.1101/133314",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/133330",
+    "Date": "2017-05-02",
+    "License": "CC BY",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/133348",
+    "Date": "2017-05-02",
+    "License": "None",
+    "Subject": "Developmental Biology"
+  },
+  {
+    "DOI": "10.1101/133363",
+    "Date": "2017-05-02",
+    "License": "None",
+    "Subject": "Neuroscience"
+  },
+  {
+    "DOI": "10.1101/133371",
+    "Date": "2017-05-02",
+    "License": "CC BY-NC",
+    "Subject": "Neuroscience"
   }
 ]
